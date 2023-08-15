@@ -26,7 +26,8 @@ const styles = StyleSheet.create({
   },
   btntxt:{
     fontSize:16,
-    fontWeight:'bold'
+    fontWeight:'bold',
+    color:'black'
   },
   Searchbutton:{
     backgroundColor:'white',
@@ -38,12 +39,13 @@ const styles = StyleSheet.create({
     justifyContent:'center',
     alignItems:'center',
     position:"absolute",
-    top:20,
+    top:50,
     zIndex:100,
   },
   Searchbtntxt:{
     fontSize:16,
-    fontWeight:'bold'
+    fontWeight:'bold',
+    color:'black'
   }
 })
 

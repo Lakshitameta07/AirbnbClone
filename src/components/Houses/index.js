@@ -9,7 +9,7 @@ function House(props) {
     <View style={styles.container}>
       <Image style={styles.image}
         source={
-          { uri: house.image }} />
+          { uri: house.image}} />
       <Text style={styles.bedroom}>{house.bed} bed {house.bedroom} bedroom</Text>
       <Text style={styles.description} numberOfLines={2}>{house.type}, {house.title}</Text>
       <Text style={styles.prices}>
