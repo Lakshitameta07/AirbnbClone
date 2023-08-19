@@ -14,7 +14,7 @@ export default function HomeTabNav() {
   return (
     <Tab.Navigator
     screenOptions={{
-        tabBarActiveTintColor:'red',
+        tabBarActiveTintColor:'#FF5A5F',
         tabBarInactiveTintColor:'grey'
     }}
     >

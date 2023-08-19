@@ -1,6 +1,6 @@
-import { View, Text } from 'react-native'
+import { View, Text,useColorScheme } from 'react-native'
 import React from 'react'
-import { NavigationContainer } from '@react-navigation/native';
+import { NavigationContainer,DarkTheme,DefaultTheme } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack'
 import SearchScreen from '../screens/SearchScreen';
 import GuestScreen from '../screens/GuestPageScreen';
@@ -10,8 +10,13 @@ import House from '../components/Houses';
 const Stack = createStackNavigator();
 
 export default function Router() {
+
+    const scheme = useColorScheme();
+
   return (
-    <NavigationContainer>
+    <NavigationContainer
+     theme={scheme ==='dark' ? DarkTheme : DefaultTheme}
+    >
         <Stack.Navigator initialRouteName='Home'>
             <Stack.Screen 
             name={"Home"}

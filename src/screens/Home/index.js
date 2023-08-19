@@ -1,4 +1,4 @@
-import {Text, ImageBackground, Pressable } from 'react-native'
+import {Text, ImageBackground, Pressable} from 'react-native'
 import React from 'react'
 import styles from './styles'
 import Fontisto from 'react-native-vector-icons/Fontisto'
@@ -7,7 +7,6 @@ import {useNavigation} from '@react-navigation/native'
 function HomeScreen() {
 
   const navigation = useNavigation()
-
   return (
     <>
       <Pressable

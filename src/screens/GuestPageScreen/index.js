@@ -104,7 +104,6 @@ function GuestScreen() {
         <Text
           style={{
             fontSize: 20,
-            color: 'white',
             fontWeight: 'bold'
           }}
         >Search</Text>
