@@ -2,11 +2,12 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
   container:{
-    margin:20,
+    padding:20,
+    height:'100%',
   },
     textinput:{
       fontSize:20,
-      marginBottom:20
+      marginBottom:20,
    },
    rowData:{
       flexDirection:'row',
@@ -21,9 +22,6 @@ const styles = StyleSheet.create({
         borderRadius:10,
         marginRight:15,
    },
-   searchtext:{
-
-   }
 });
 
 export default styles

@@ -2,6 +2,7 @@ import React from 'react'
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs'
 import SearchResultScreen from '../screens/SearchResults';
 import Ionicons from 'react-native-vector-icons/Ionicons'
+import SearchResultsMap from '../screens/SearchResults/SearchResultsMap';
 
 const Tab = createMaterialTopTabNavigator()
 
@@ -27,7 +28,7 @@ export default function SearchResultsTabNav() {
       />
       <Tab.Screen
         name='Map'
-        component={SearchResultScreen}
+        component={SearchResultsMap}
         options={{
           tabBarIcon: ({ color }) => (
             <Ionicons name='map' size={20} color={color} />
