@@ -1,4 +1,4 @@
-![Image 6](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/11dea8ed-8270-424f-bc2c-0d458bb1dde5)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
