@@ -6,8 +6,8 @@ export default [
     title: 'Bright room in the heart of the city',
     bed: 2,
     bedroom: 3,
-    oldPrice: 25,
-    newPrice: 20,
+    oldPrice: '$25',
+    newPrice: '$20',
     totalPrice: 120,
     coordinate: {
       latitude: 28.3915637,
@@ -21,8 +21,8 @@ export default [
     title: 'NEW lux. apartment in the center of Santa Cruz',
     bed: 3,
     bedroom: 2,
-    oldPrice: 76,
-    newPrice: 65,
+    oldPrice: '$76',
+    newPrice: '$65',
     totalPrice: 390,
     coordinate: {
       latitude: 28.4815637,
@@ -36,8 +36,8 @@ export default [
     title: 'Green House Santa Cruz',
     bed: 2,
     bedroom: 1,
-    oldPrice: 64,
-    newPrice: 55,
+    oldPrice: '$64',
+    newPrice: '$55',
     totalPrice: 330,
     coordinate: {
       latitude: 28.2515637,
@@ -51,8 +51,8 @@ export default [
     title: 'Typical canarian house',
     bed: 4,
     bedroom: 3,
-    oldPrice: 120,
-    newPrice: 100,
+    oldPrice: '$120',
+    newPrice: '$100',
     totalPrice: 600,
     coordinate: {
       latitude: 28.4815637,
