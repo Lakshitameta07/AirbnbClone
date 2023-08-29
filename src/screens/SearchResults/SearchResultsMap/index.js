@@ -3,6 +3,7 @@ import React,{useState} from 'react';
 import MapView from 'react-native-maps';
 import places from '../../../assests/data/feed'
 import CustomMarker from '../../../components/CustomMarker';
+import PostCarouselItem from '../../../components/PostCarouselItem'
 
 function SearchResultsMap() {
 
@@ -26,6 +27,9 @@ function SearchResultsMap() {
           onPress={()=> setSelectedId(place.id)}
           />)}
       </MapView>
+      <View style={{position:'absolute',bottom:50}}>
+        <PostCarouselItem house = {places[0]}/>
+      </View>
     </View>
   );
 }
