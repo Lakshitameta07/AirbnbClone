@@ -32,8 +32,8 @@ function SearchResultsMap() {
     const region ={
       latitude : selectedPlace.coordinate.latitude,
       longitude : selectedPlace.coordinate.longitude,
-      latitudeDelta: 0.8,
-      longitudeDelta: 0.8
+      latitudeDelta: 0.2,
+      longitudeDelta: 0.2
     }
     map.current.animateToRegion(region)
   }, [selectedId]);
