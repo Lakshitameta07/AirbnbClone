@@ -1,4 +1,4 @@
-![Screenshot_2023-08-22-15-03-04-65_0b51c95fe5035074df91be19cb730efd](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/3477fecb-94d5-468c-a628-a77d1fd379de)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+![Image 6](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/11dea8ed-8270-424f-bc2c-0d458bb1dde5)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
@@ -83,4 +83,18 @@ To learn more about React Native, take a look at the following resources:
   
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
-#
+# Demo App Images 
+1. ![Image 1](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/3b06e37c-59ff-4b90-a205-644295ed4114)
+2. ![Image 2](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/3fca367b-1744-4cd5-a0ab-1eeb6f6ea4b5)
+3. ![Image 3](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/bd4f3857-ecc2-4cce-8d88-2aba5e6addf1)
+4. ![Image 4](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/29df15ac-9287-4081-ad4b-c0aa80230d22)
+5. ![Image 5](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/5f32e1fe-fd3d-491c-af1b-1ae21dbbf331)
+6. ![Image 6](https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/7e409721-fb01-4aa5-b23d-22f0dccc369e)
+
+# React Native Maps and FlatList Syncronization
+
+https://github.com/Lakshitameta07/AirbnbClone/assets/51040685/6da7107c-3a26-4a34-a042-a1b36c46d190
+
+
+
+
