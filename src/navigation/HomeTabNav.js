@@ -8,6 +8,7 @@ import Feather from 'react-native-vector-icons/Feather'
 import EvilIcons from 'react-native-vector-icons/EvilIcons'
 import ExploreNav from './ExploreNav';
 import SearchResultsMap from '../screens/SearchResults/SearchResultsMap';
+import PostScreen from '../screens/PostScreen';
 
 const Tab = createBottomTabNavigator();
 
@@ -22,7 +23,7 @@ export default function HomeTabNav() {
         <Tab.Screen
          name='Explore'
          // component={ExploreNav}
-         component={SearchResultsMap}
+         component={PostScreen}
          options={{
             headerShown:false,
             tabBarIcon:({color})=>(

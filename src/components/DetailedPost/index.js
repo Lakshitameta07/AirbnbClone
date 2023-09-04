@@ -2,7 +2,7 @@ import { View, Text, Image } from 'react-native'
 import React from 'react'
 import styles from './style'
 
-function House (props) {
+function DetailedPost(props) {
 
   const house = props.house;
   return (
@@ -18,8 +18,9 @@ function House (props) {
         / night
       </Text>
       <Text style={styles.totalPrice}>{house.totalPrice}</Text>
+      <Text>{house.description}</Text>
     </View>
   )
 }
 
-export default House
+export default DetailedPost

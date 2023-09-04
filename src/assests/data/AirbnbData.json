@@ -1,0 +1,3474 @@
+[{
+  "url": "https://www.airbnb.com/rooms/50107516",
+  "name": "The Glass House - 2 Bed Room Pool Villa",
+  "stars": null,
+  "numberOfGuests": 4,
+  "address": "Udaipur, Rajasthan, India",
+  "roomType": "Private room in bed and breakfast",
+  "location": {
+    "lat": 24.52278,
+    "lng": 73.61943
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Rakshit",
+        "hasProfilePic": false,
+        "id": "247380891",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7b902bed-ec78-438c-859e-6211cece7d86.jpg?aki_policy=profile_x_medium",
+        "smartName": "Rakshit",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7b902bed-ec78-438c-859e-6211cece7d86.jpg?aki_policy=profile_small"
+      },
+      "comments": "Very nice place and care taker. And hosts were very kind and helpful for everything. Glad that we had stay there.",
+      "createdAt": "2021-09-08T07:34:29Z",
+      "id": "446690602995047851",
+      "collectionTag": null,
+      "rating": 5,
+      "recipient": {
+        "firstName": "Karmveer Singh",
+        "hasProfilePic": false,
+        "id": "26145028",
+        "pictureUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Karmveer Singh",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Thanks Raskshit for staying at our place. Hope to meet you soon in goa",
+      "localizedDate": "September 2021",
+      "localizedReview": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1324,
+      "amountFormatted": "$1,324",
+      "currency": "USD",
+      "isMicrosAccuracy": false
+    },
+    "rateType": "nightly"
+  },
+  "photos": [
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/66c1f769-df0b-43a7-983c-512822f14669.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/66c1f769-df0b-43a7-983c-512822f14669.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/1aa9cee8-5485-4014-a8f9-408e5fcd3074.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/1aa9cee8-5485-4014-a8f9-408e5fcd3074.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/6b3c056a-13f9-4953-960d-b36d9ba35bc7.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/6b3c056a-13f9-4953-960d-b36d9ba35bc7.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/469d8f3b-1ab1-4b79-adcf-1f161fe49dc5.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/469d8f3b-1ab1-4b79-adcf-1f161fe49dc5.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50107516/original/8b5dbd74-a599-4f54-9b52-f784f2dfaaba.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50107516/original/8b5dbd74-a599-4f54-9b52-f784f2dfaaba.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50107516/original/8c2d81ac-fe1f-4915-ae1f-5e701111403c.png?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50107516/original/8c2d81ac-fe1f-4915-ae1f-5e701111403c.png?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/188d539b-ce0b-4b1d-9579-72571c23e277.png?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/188d539b-ce0b-4b1d-9579-72571c23e277.png?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50107516/original/05d6874f-188c-49f7-937d-97c7b39e434c.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50107516/original/05d6874f-188c-49f7-937d-97c7b39e434c.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/0265328d-a285-4e05-a242-74f4d452e6b9.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/0265328d-a285-4e05-a242-74f4d452e6b9.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/5827da2c-848a-40c1-a057-8afc6d9a9fa5.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50107516/original/5827da2c-848a-40c1-a057-8afc6d9a9fa5.jpeg?aki_policy=small"
+    }
+  ],
+  "primaryHost": {
+    "id": 26145028,
+    "firstName": "Karmveer Singh",
+    "isSuperHost": false,
+    "hasProfilePic": true,
+    "smartName": "Karmveer Singh",
+    "about": "Avid traveller and run a hotel marketing company. Loves beer in summers and scotch in winters- good food and peace full stay is what I want.",
+    "memberSince": "Joined in January 2015",
+    "languages": [],
+    "responseRate": "100%",
+    "responseTime": "within an hour",
+    "hasInclusionBadge": false,
+    "badges": [
+      "6 Reviews",
+      "Identity verified"
+    ],
+    "hostUrl": "https://www.airbnb.com/users/show/26145028",
+    "pictureUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_large",
+    "thumbnailUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_small"
+  },
+  "additionalHosts": [],
+  "isHostedBySuperhost": false,
+  "isAvailable": true,
+  "listingAmenities": [
+    {
+      "description": "",
+      "id": 9,
+      "isPresent": true,
+      "name": "Free parking on premises"
+    },
+    {
+      "description": "Space where guests can cook their own meals",
+      "id": 8,
+      "isPresent": true,
+      "name": "Kitchen"
+    },
+    {
+      "description": "Available throughout the listing",
+      "id": 4,
+      "isPresent": true,
+      "name": "Wifi"
+    },
+    {
+      "description": "Guests have a desk or table that's used just for working, along with a comfortable chair.",
+      "id": 47,
+      "isPresent": true,
+      "name": "Dedicated workspace"
+    },
+    {
+      "description": "",
+      "id": 33,
+      "isPresent": false,
+      "name": "Washer"
+    },
+    {
+      "description": "",
+      "id": 45,
+      "isPresent": true,
+      "name": "Hair dryer"
+    },
+    {
+      "description": "",
+      "id": 30,
+      "isPresent": false,
+      "name": "Heating"
+    },
+    {
+      "description": "",
+      "id": 1,
+      "isPresent": false,
+      "name": "TV"
+    },
+    {
+      "description": "Breakfast is provided",
+      "id": 16,
+      "isPresent": true,
+      "name": "Breakfast"
+    },
+    {
+      "description": "",
+      "id": 5,
+      "isPresent": true,
+      "name": "Air conditioning"
+    },
+    {
+      "description": "",
+      "id": 10,
+      "isPresent": true,
+      "name": "Paid parking off premises"
+    },
+    {
+      "description": "The host hasn't reported a smoke detector on the property.",
+      "id": 35,
+      "isPresent": false,
+      "name": "Smoke alarm"
+    },
+    {
+      "description": "The host hasn't reported a carbon monoxide detector on the property.",
+      "id": 36,
+      "isPresent": false,
+      "name": "Carbon monoxide alarm"
+    },
+    {
+      "description": "Towels, bed sheets, soap, and toilet paper",
+      "id": 40,
+      "isPresent": true,
+      "name": "Essentials"
+    },
+    {
+      "description": "",
+      "id": 41,
+      "isPresent": false,
+      "name": "Shampoo"
+    },
+    {
+      "description": "",
+      "id": 46,
+      "isPresent": true,
+      "name": "Iron"
+    },
+    {
+      "description": "Someone is available 24 hours a day to let guests in",
+      "id": 55,
+      "isPresent": true,
+      "name": "Building staff"
+    },
+    {
+      "description": "",
+      "id": 57,
+      "isPresent": false,
+      "name": "Private entrance"
+    },
+    {
+      "description": "",
+      "id": 66,
+      "isPresent": true,
+      "name": "Children’s books and toys"
+    },
+    {
+      "description": "Pots and pans, oil, salt and pepper",
+      "id": 94,
+      "isPresent": true,
+      "name": "Cooking basics"
+    },
+    {
+      "description": "",
+      "id": 179,
+      "isPresent": true,
+      "name": "Outdoor dining area"
+    },
+    {
+      "description": "",
+      "id": 219,
+      "isPresent": true,
+      "name": "Fire pit"
+    },
+    {
+      "description": "",
+      "id": 280,
+      "isPresent": true,
+      "name": "Outdoor furniture"
+    }
+  ],
+  "rootAmenitySections": [
+    {
+      "id": "available_amenities",
+      "title": "Amenities",
+      "subtitle": "",
+      "amenityIds": [
+        9,
+        8,
+        4,
+        47
+      ]
+    },
+    {
+      "id": "unavailable_safety_amenities",
+      "title": "Amenities",
+      "subtitle": "The host hasn't reported smoke or carbon monoxide detectors on the property.",
+      "amenityIds": [
+        35,
+        36
+      ]
+    }
+  ],
+  "seeAllAmenitySections": [
+    {
+      "id": "pdp_m2_5_bathroom",
+      "title": "Bathroom",
+      "subtitle": "",
+      "amenityIds": [
+        45
+      ]
+    },
+    {
+      "id": "pdp_m2_5_bedroom_laundry",
+      "title": "Bedroom and laundry",
+      "subtitle": "",
+      "amenityIds": [
+        40,
+        46
+      ]
+    },
+    {
+      "id": "pdp_m2_5_family",
+      "title": "Family",
+      "subtitle": "",
+      "amenityIds": [
+        66
+      ]
+    },
+    {
+      "id": "pdp_m2_5_heating_cooling",
+      "title": "Heating and cooling",
+      "subtitle": "",
+      "amenityIds": [
+        5
+      ]
+    },
+    {
+      "id": "pdp_m2_5_internet_office",
+      "title": "Internet and office",
+      "subtitle": "",
+      "amenityIds": [
+        4,
+        47
+      ]
+    },
+    {
+      "id": "pdp_m2_5_kitchen_dining",
+      "title": "Kitchen and dining",
+      "subtitle": "",
+      "amenityIds": [
+        8,
+        94
+      ]
+    },
+    {
+      "id": "pdp_m2_5_outdoor",
+      "title": "Outdoor",
+      "subtitle": "",
+      "amenityIds": [
+        179,
+        219,
+        280
+      ]
+    },
+    {
+      "id": "pdp_m2_5_parking_facilities",
+      "title": "Parking and facilities",
+      "subtitle": "",
+      "amenityIds": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "pdp_m2_5_services",
+      "title": "Services",
+      "subtitle": "",
+      "amenityIds": [
+        16,
+        55
+      ]
+    },
+    {
+      "id": "pdp_unavailable",
+      "title": "Not included",
+      "subtitle": "",
+      "amenityIds": [
+        33,
+        30,
+        1,
+        35,
+        36,
+        41,
+        57
+      ]
+    }
+  ],
+  "bathroomLabel": "2 baths",
+  "bedLabel": "4 beds",
+  "bedroomLabel": "2 bedrooms",
+  "hasHouseRules": true,
+  "id": 50107516,
+  "isNewListing": false,
+  "listingRooms": [
+    {
+      "beds": [
+        {
+          "id": "143244183/double_bed",
+          "quantity": 1,
+          "type": "double_bed"
+        },
+        {
+          "id": "143244183/floor_mattress",
+          "quantity": 2,
+          "type": "floor_mattress"
+        }
+      ],
+      "id": 143244183,
+      "roomNumber": 1
+    },
+    {
+      "beds": [
+        {
+          "id": "213856535/double_bed",
+          "quantity": 1,
+          "type": "double_bed"
+        },
+        {
+          "id": "213856535/floor_mattress",
+          "quantity": 2,
+          "type": "floor_mattress"
+        }
+      ],
+      "id": 213856535,
+      "roomNumber": 2
+    }
+  ],
+  "p3SummaryAddress": "Udaipur, Rajasthan, India",
+  "roomTypeCategory": "private_room",
+  "sectionedDescription": {
+    "authorType": "human",
+    "description": "The Glass House is a 2 Bedroom Pool Villa with stunning view of Aravalis - farmlands and orchards. We can accommodate around 6 person in this two bed room villa We don't offer Luxury but Warmth & Comfort; offering simple food and an experience.\n\nPeople who loved staying here were Nature Lovers, Artists, Writers, Group of Friends who want to reunite and spend some time, Families who want to expose their kids to nature and Farm life and Human Beings who want to spend time in the hills.\n\nThe Glass House - a 2 Bedroom Pool Villa @The Riverside Estate is a two floor structure with large windows all around. The Bungalow is on the top of a small hill easily accessible by car/two wheeler or by foot. The nearby area is full of vegetation and a river which flows 9 months in a year.\n***********************************************************************************\nThe Bungalow offers accommodation options as below:\n\n#1 - Pool View AC Room with Garden and private Sit out.  \n>> The Pool View AC Room with a private sitout and a small garden is an ideal choice for people looking to spend most of their time outdoors or by the pool. This room is on the ground floor with stunning views of Aravali Hills and turquoise blue pool right from the bed. The room is well ventilated and is open from two sides with large windows and also has an attached washroom with a view.  The room is Air conditioned and is spacious enough to accommodate upto 4 persons by putting two extra mattresses on the floor. Its on ground floor.\n\n#2 The Glass House Suite with Private Sit out \n>> The Glass House Suite with Private Sit out is on the upper floor and is open from three sides with awesome views of Mountains on one side and orchards and farms on the other. The room is around 500 sq ft in size with balconies all around the room and private sit-out overlooking the orchards. The room is Air-conditioned and has a King size bed, sofas and easy chairs to relax and a huge attached wash room with a dressing room. The room is the most sought after room due to its location and views. This is on 1st floor\n\n* King Size Bed * Air Conditioned Room * Attached Washroom * Hot Water Geyser * Sofa Chairs \n***********************************************************************************\n**Food & Outdoor Cooking @The Riverside Estate**\n\nWe offer authentic - pure - local food and need a bit of advance notice to help us prepare some really special delicacies that we excel in. We have two Kitchens - one small kitchen attached to the bedroom (preferred and used by long stay guests) and one down the hill for outdoor cooking (this is our main kitchen). Guests are most welcome to cook by themself with assistance provided from our staff.  We offer both Veg and Non-Veg food and most of the material is either grown or sourced locally. The caretaker family does the cooking and a bit of guidance from you(guest) will be helpful to modify the food taste as per your liking. We also need advance information if any specific food/dishes are to be cooked.\n\n\" How is the food priced? \"\n\nWe have outsourced the food section to caretakers to keep them motivated to deliver the best with back up of ordering from nearby restaurants.\n--------------------------------------------------------------------------\nCaretakers have a simple indian food menu available and you can order as per the menu.  Avg. dish cost veg@ 300 and non veg@400\n\nWe have multiple dining options like:  \n1) Under the Mango Tree:- its a favorite summer spot for lunch. Post lunch Buttermilk & a cot under the tree will give you assured sleep in the afternoon.  \n2) By the Outdoor Kitchen:- if  hot wood baked chulha rotis (wheat/maize/bajra) or dal-bati churma is what you are looking for (preferred during winter lunches).\n3) Roof Top with 360 degree view & star lit sky while sipping your drink.\n4) Verandah dining: - The patio sitout with cool breeze best in monsoons. This is a place in the house where you can sit for hours.\nEach living space is designed keeping varied taste in mind and each has its own charm in different weather conditions.\n\n***********************************************************************************\n\nThe place is in village Chokadiya roughly 20 minutes drive from Udaipur Railway Station or Udaipur Bus Stand.\n\n*** We have outsourced the food section to caretakers to keep them involved and motivated. Payments to be made directly to them.\n*** This place is ideal for families who appreciate nature living and farm stays. We have tried our best to offer amenties for a comfortable stay.\n*** You are allowed to have alcohol provided you can hold your drink. \n*** We are PET FRIENDLY but request the guest to not allow pets on the mattress.\n*** Drugs/Gambling is a STRICT NO.\n*** All Guests need to carry a valid ID CARD.\n*** Unmarried - Suspicious Couples with local id cards may not be allowed. \n*** Right to admission reserved.",
+    "houseRules": "The Bungalow @The Riverside Estate is actually a two-step stone cottage with thick walls and made by local artisans in a very tradional way. The Bungalow offers two accomodation options - One king-size double-bed Air Conditioned suite with an attached bathroom and a small kitchen. There is also a private open verandah attached to the Suite. The second accommodation option is a lower basement room with four single beds and space for putting an additional bed. The lower basement room does not have an attached bathroom and is air-cooled (not air-conditioned). The lower basement room is mainly occupied by kids in the Family group or bachelors. The bathroom for the lower basement room is 10 steps away.\nWe normally prefer to rent out the entire bungalow and don't take other guests even if one room is occupied. \n**We are PET FRIENDLY but request the guest to not allow pets on the mattress. Below is strictly not allowed and if **** Gambling **** Drugs **** Abusive behaviour by guests  if noted, we will call police. This is family only property.",
+    "locale": "en",
+    "localizedLanguageName": "English",
+    "name": "The Glass House - 2 Bed Room Pool Villa",
+    "neighborhoodOverview": "The place is in village Chokadiya roughly 20 minutes drive from Udaipur Railway Station or Udaipur Bus Stand.",
+    "notes": "*** We have outsourced the food section to caretakers to keep them involved and motivated. Payments to be made directly to them.\n*** This place is ideal for families who appreciate nature living and farm stays. We have tried our best to offer amenties for a comfortable stay.\n*** You are allowed to have alcohol provided you can hold your drink. \n*** We are PET FRIENDLY but request the guest to not allow pets on the mattress.\n*** Drugs/Gambling is a STRICT NO.\n*** All Guests need to carry a valid ID CARD.\n*** Unmarried - Suspicious Couples with local id cards may not be allowed. \n*** Right to admission reserved.",
+    "space": "The Glass House - a 2 Bedroom Pool Villa @The Riverside Estate is a two floor structure with large windows all around. The Bungalow is on the top of a small hill easily accessible by car/two wheeler or by foot. The nearby area is full of vegetation and a river which flows 9 months in a year.\n***********************************************************************************\nThe Bungalow offers accommodation options as below:\n\n#1 - Pool View AC Room with Garden and private Sit out.  \n>> The Pool View AC Room with a private sitout and a small garden is an ideal choice for people looking to spend most of their time outdoors or by the pool. This room is on the ground floor with stunning views of Aravali Hills and turquoise blue pool right from the bed. The room is well ventilated and is open from two sides with large windows and also has an attached washroom with a view.  The room is Air conditioned and is spacious enough to accommodate upto 4 persons by putting two extra mattresses on the floor. Its on ground floor.\n\n#2 The Glass House Suite with Private Sit out \n>> The Glass House Suite with Private Sit out is on the upper floor and is open from three sides with awesome views of Mountains on one side and orchards and farms on the other. The room is around 500 sq ft in size with balconies all around the room and private sit-out overlooking the orchards. The room is Air-conditioned and has a King size bed, sofas and easy chairs to relax and a huge attached wash room with a dressing room. The room is the most sought after room due to its location and views. This is on 1st floor\n\n* King Size Bed * Air Conditioned Room * Attached Washroom * Hot Water Geyser * Sofa Chairs \n***********************************************************************************\n**Food & Outdoor Cooking @The Riverside Estate**\n\nWe offer authentic - pure - local food and need a bit of advance notice to help us prepare some really special delicacies that we excel in. We have two Kitchens - one small kitchen attached to the bedroom (preferred and used by long stay guests) and one down the hill for outdoor cooking (this is our main kitchen). Guests are most welcome to cook by themself with assistance provided from our staff.  We offer both Veg and Non-Veg food and most of the material is either grown or sourced locally. The caretaker family does the cooking and a bit of guidance from you(guest) will be helpful to modify the food taste as per your liking. We also need advance information if any specific food/dishes are to be cooked.\n\n\" How is the food priced? \"\n\nWe have outsourced the food section to caretakers to keep them motivated to deliver the best with back up of ordering from nearby restaurants.\n--------------------------------------------------------------------------\nCaretakers have a simple indian food menu available and you can order as per the menu.  Avg. dish cost veg@ 300 and non veg@400\n\nWe have multiple dining options like:  \n1) Under the Mango Tree:- its a favorite summer spot for lunch. Post lunch Buttermilk & a cot under the tree will give you assured sleep in the afternoon.  \n2) By the Outdoor Kitchen:- if  hot wood baked chulha rotis (wheat/maize/bajra) or dal-bati churma is what you are looking for (preferred during winter lunches).\n3) Roof Top with 360 degree view & star lit sky while sipping your drink.\n4) Verandah dining: - The patio sitout with cool breeze best in monsoons. This is a place in the house where you can sit for hours.\nEach living space is designed keeping varied taste in mind and each has its own charm in different weather conditions.\n\n***********************************************************************************",
+    "summary": "The Glass House is a 2 Bedroom Pool Villa with stunning view of Aravalis - farmlands and orchards. We can accommodate around 6 person in this two bed room villa We don't offer Luxury but Warmth & Comfort; offering simple food and an experience.\n\nPeople who loved staying here were Nature Lovers, Artists, Writers, Group of Friends who want to reunite and spend some time, Families who want to expose their kids to nature and Farm life and Human Beings who want to spend time in the hills."
+  },
+  "tierId": 0,
+  "guestControls": {
+    "allowsChildren": true,
+    "allowsEvents": true,
+    "allowsInfants": true,
+    "allowsPets": true,
+    "allowsSmoking": true,
+    "personCapacity": 4,
+    "structuredHouseRules": [
+      "Check-in time is 1PM - 6PM and check out by 10AM"
+    ],
+    "structuredHouseRulesWithTips": [
+      {
+        "key": "check_in_time_and_check_out_time",
+        "text": "Check-in time is 1PM - 6PM and check out by 10AM",
+        "airmojiKey": "accomodation_keys"
+      },
+      {
+        "key": "self_check_in",
+        "text": "Self check-in with building staff",
+        "airmojiKey": "pdp_room"
+      }
+    ],
+    "allowsNonChinaUsers": true
+  },
+  "hasSpecialOffer": false,
+  "maxNights": 1125,
+  "minNights": 1,
+  "priceDetails": [
+    {
+      "label": "Extra people",
+      "value": "$24 per night after the first guest",
+      "attributeType": "EXTRA_PEOPLE"
+    }
+  ],
+  "hasWeWorkLocation": false,
+  "isBusinessTravelReady": false,
+  "hometourRooms": [
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 double bed",
+        "2 floor mattresses"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 143244183,
+      "name": "",
+      "nameWithType": "Bedroom 1",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "double_bed",
+          "url": ""
+        },
+        {
+          "type": "floor_mattress",
+          "url": ""
+        },
+        {
+          "type": "floor_mattress",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 double bed",
+        "2 floor mattresses"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 213856535,
+      "name": "",
+      "nameWithType": "Bedroom 2",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "double_bed",
+          "url": ""
+        },
+        {
+          "type": "floor_mattress",
+          "url": ""
+        },
+        {
+          "type": "floor_mattress",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "hometourSections": [],
+  "descriptionLocale": "en",
+  "initialDescriptionAuthorType": "human",
+  "localizedCheckInTimeWindow": "1:00 PM - 6:00 PM",
+  "localizedCheckOutTime": "10:00 AM",
+  "city": "Udaipur",
+  "country": "India",
+  "countryCode": "IN",
+  "hasHostGuidebook": false,
+  "hasLocalAttractions": false,
+  "neighborhoodCommunityTags": [],
+  "state": "Rajasthan",
+  "paidGrowthRemarketingListingIds": [],
+  "hasCommercialHostInfo": false,
+  "reviewDetailsInterface": {
+    "reviewCount": 1,
+    "reviewSummary": [
+      {
+        "value": 8,
+        "label": "Accuracy",
+        "localizedRating": "4.0",
+        "percentage": 0.8
+      },
+      {
+        "value": 10,
+        "label": "Communication",
+        "localizedRating": "5.0",
+        "percentage": 1
+      },
+      {
+        "value": 8,
+        "label": "Cleanliness",
+        "localizedRating": "4.0",
+        "percentage": 0.8
+      },
+      {
+        "value": 10,
+        "label": "Location",
+        "localizedRating": "5.0",
+        "percentage": 1
+      },
+      {
+        "value": 10,
+        "label": "Check-in",
+        "localizedRating": "5.0",
+        "percentage": 1
+      },
+      {
+        "value": 10,
+        "label": "Value",
+        "localizedRating": "5.0",
+        "percentage": 1
+      }
+    ]
+  },
+  "reviewsOrder": "language_country",
+  "nearbyAirportDistanceDescriptions": [],
+  "renderTierId": 0,
+  "isHotel": false,
+  "showReviewTag": false,
+  "isRepresentativeInventory": false,
+  "localizedCity": "Udaipur",
+  "highlights": [
+    {
+      "type": "LISTING_SELF_CHECKIN",
+      "message": "You can check in with the doorman.",
+      "headline": "Self check-in",
+      "position": "0",
+      "icon": "pdp_room"
+    },
+    {
+      "type": "LISTING_POPULAR_AMENITY",
+      "message": "Guests often search for this popular amenity",
+      "headline": "Pets allowed",
+      "position": "1",
+      "icon": "extras_star"
+    }
+  ],
+  "highlightsImpressionId": "5f43a1f9-d84d-8c40-fb8b-66c13ee50451",
+  "categorizedPreviewAmenities": [
+    {
+      "category": "Standard",
+      "amenities": "Kitchen, Wifi, Dedicated workspace, Hair dryer, Air conditioning, and 3 more"
+    },
+    {
+      "category": "Other highlights",
+      "amenities": "Free parking on premises, Breakfast, Paid parking off premises, Building staff, Children’s books and toys, and 3 more"
+    }
+  ],
+  "pointOfInterests": [],
+  "chinaPointsOfInterestMatcha": {},
+  "pageViewType": "DEFAULT",
+  "previewTags": [],
+  "seeAllHometourSections": [],
+  "enableHighlightsVoting": false,
+  "listingExpectations": [
+    {
+      "addedDetails": "We dont have power back up now. \nOne room is air-conditioned.\nSecond room is air cooled.",
+      "title": "Amenity limitations",
+      "type": "limited_amenities",
+      "airmojiKey": "status_cancelled"
+    }
+  ],
+  "localizedListingExpectations": [
+    {
+      "addedDetails": "We dont have power back up now. \nOne room is air-conditioned.\nSecond room is air cooled.",
+      "title": "Amenity limitations",
+      "type": "limited_amenities",
+      "airmojiKey": "status_cancelled"
+    }
+  ],
+  "heroModule": {
+    "categorizedPhotos": []
+  },
+  "reviewsModule": {},
+  "availabilityModule": {},
+  "additionalHouseRules": "The Bungalow @The Riverside Estate is actually a two-step stone cottage with thick walls and made by local artisans in a very tradional way. The Bungalow offers two accomodation options - One king-size double-bed Air Conditioned suite with an attached bathroom and a small kitchen. There is also a private open verandah attached to the Suite. The second accommodation option is a lower basement room with four single beds and space for putting an additional bed. The lower basement room does not have an attached bathroom and is air-cooled (not air-conditioned). The lower basement room is mainly occupied by kids in the Family group or bachelors. The bathroom for the lower basement room is 10 steps away.\nWe normally prefer to rent out the entire bungalow and don't take other guests even if one room is occupied. \n**We are PET FRIENDLY but request the guest to not allow pets on the mattress. Below is strictly not allowed and if **** Gambling **** Drugs **** Abusive behaviour by guests  if noted, we will call police. This is family only property.",
+  "sortedReviews": [],
+  "documentDisplayPictures": [],
+  "sections": [],
+  "metadata": {},
+  "p3ImpressionId": "5f43a1f9-d84d-8c40-fb8b-66c13ee50451",
+  "idStr": "50107516",
+  "paidGrowthRemarketingListingIdsStr": []
+},
+{
+  "url": "https://www.airbnb.com/rooms/50294483",
+  "name": "Mountain View Suite Pvt. Pool+Balcony+Wifi",
+  "stars": null,
+  "numberOfGuests": 2,
+  "address": "Udaipur, Rajasthan, India",
+  "roomType": "Private room in farm stay",
+  "location": {
+    "lat": 24.52204,
+    "lng": 73.61939
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Abhishek",
+        "hasProfilePic": false,
+        "id": "63146086",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e5317489-9c87-406c-8509-ea5400ae6706.jpg?aki_policy=profile_x_medium",
+        "smartName": "Abhishek",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e5317489-9c87-406c-8509-ea5400ae6706.jpg?aki_policy=profile_small"
+      },
+      "comments": "A very peaceful stay. Host was quick to respond and resolve any issues. Airtel network was available only at a few places but the property has got Wi-fi so we were connected while on the property. The room is spacious, can easily accommodate 4 people and was neat and clean with an attached bathroom. It also had a small kitchenette with a water filter and utensils. The room has an open area in front which has a great view and also a small garden on the side which our puppy absolutely loved. There is a short trek down from the farm to a river nearby but it was just a trickle when we visited yet the riverside was super quiet and comforting. <br/>The food is cooked by a family that travels from Udaipur when guests arrive and can cook whatever you ask them to besides the menu as well. Food was spicy and a little expensive but that is also because the cook has to travel and carry the supplies from far. <br/>It is better to call the host for directions and not solely depend on the location as it is not exactly on the main road. <br/>Overall a refreshing 2 night stay, and best part being they welcome pets! :) :)",
+      "createdAt": "2021-11-14T11:16:55Z",
+      "id": "495362533284084063",
+      "collectionTag": null,
+      "rating": 4,
+      "recipient": {
+        "firstName": "Karmveer Singh",
+        "hasProfilePic": false,
+        "id": "26145028",
+        "pictureUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Karmveer Singh",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Guest, Thank you for choosing Riverside Estate Udaipur for your stay and taking your time out to write a detailed review. Our priority has always been meeting our guests expectations and when we receive such response it motivates us more and more. We are glad that our effort is so well appreciated and we are thankful for the same. It was indeed a pleasure hosting you. Further, we look forward to welcoming you back again soon. Regards,",
+      "localizedDate": "November 2021",
+      "localizedReview": null
+    },
+    {
+      "author": {
+        "firstName": "Ishanee",
+        "hasProfilePic": false,
+        "id": "27925871",
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/9972bb43-19d0-4aec-9ddd-02dda7f3b554.jpg?aki_policy=profile_x_medium",
+        "smartName": "Ishanee",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/9972bb43-19d0-4aec-9ddd-02dda7f3b554.jpg?aki_policy=profile_small"
+      },
+      "comments": "the location is fantastic. do make sure you get someone to receive you at the turning on the highway or else it will be difficult to find.<br/>food is charged extra with labour charges and material which I found very confusing. please get clarity about it.<br/>the river near the property and farms in the village are great for a walk. but not for cycling which was my main purpose of visiting. drive towards more remote villages around is quite rewarding.<br/>food can be improved. <br/>good if you want to visit udaipur and have your own car. it would take you about half an hour or so.<br/>expect about 5-10 minutes of driving on a mud road to reach. descent car and good enough driving skills will be okay. <br/>not recommended for senior citizens who have difficulty climbing or walking.",
+      "createdAt": "2021-06-21T08:36:02Z",
+      "id": "389464301854375148",
+      "collectionTag": null,
+      "rating": 2,
+      "recipient": {
+        "firstName": "Karmveer Singh",
+        "hasProfilePic": false,
+        "id": "26145028",
+        "pictureUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Karmveer Singh",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Thanks Ishanee for your feedback to improve further. \r<br/>1) We have rechecked the google Map location and it's correct as few other customers did reach correctly using the map direction. However we will put sign-boards to give guest confidence that they are on right track.  \r<br/>2) Food is outsourced to caretakers and we are still contemplating if we shud keep fixed menu or labour charges plus cost of materials, we also give customers option to bring their own groceries and  just provide caretakers as assistants. Getting materials remotely is always challenging for smaller homestays.  But we did learn from your stay and next two customer enjoyed fully.  \r<br/>3) The car can come upto the cottage on the hill and we are also having a senior citizen staying with us today. I wil certainly take feedback from them too.\r<br/>We look forward to your stay with us again so that you can see what all we have improved.",
+      "localizedDate": "June 2021",
+      "localizedReview": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1333,
+      "amountFormatted": "$1,333",
+      "currency": "USD",
+      "isMicrosAccuracy": false
+    },
+    "rateType": "nightly"
+  },
+  "photos": [
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50294483/original/cc69bdff-ecf1-46d5-9908-955873eeebbe.png?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50294483/original/cc69bdff-ecf1-46d5-9908-955873eeebbe.png?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50294483/original/087581ee-a89a-446d-baf0-e6af9217fbdf.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50294483/original/087581ee-a89a-446d-baf0-e6af9217fbdf.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50294483/original/754d2f2d-4e0d-4134-8ca8-ccff6917d954.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50294483/original/754d2f2d-4e0d-4134-8ca8-ccff6917d954.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50294483/original/35c89700-1b80-4e52-a606-4c3df6e9d2d9.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50294483/original/35c89700-1b80-4e52-a606-4c3df6e9d2d9.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50294483/original/566c96fc-5796-4b2d-8cc9-cd5b50b6a2b8.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50294483/original/566c96fc-5796-4b2d-8cc9-cd5b50b6a2b8.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50294483/original/41b5f6f8-6af5-44e9-9542-b78c4f0b70a6.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50294483/original/41b5f6f8-6af5-44e9-9542-b78c4f0b70a6.jpeg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50294483/original/35326350-d39c-4329-9542-9590a8706d45.jpeg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-50294483/original/35326350-d39c-4329-9542-9590a8706d45.jpeg?aki_policy=small"
+    }
+  ],
+  "primaryHost": {
+    "id": 26145028,
+    "firstName": "Karmveer Singh",
+    "isSuperHost": false,
+    "hasProfilePic": true,
+    "smartName": "Karmveer Singh",
+    "about": "Avid traveller and run a hotel marketing company. Loves beer in summers and scotch in winters- good food and peace full stay is what I want.",
+    "memberSince": "Joined in January 2015",
+    "languages": [],
+    "responseRate": "100%",
+    "responseTime": "within an hour",
+    "hasInclusionBadge": false,
+    "badges": [
+      "6 Reviews",
+      "Identity verified"
+    ],
+    "hostUrl": "https://www.airbnb.com/users/show/26145028",
+    "pictureUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_large",
+    "thumbnailUrl": "https://a0.muscache.com/im/users/26145028/profile_pic/1421317506/original.jpg?aki_policy=profile_small"
+  },
+  "additionalHosts": [],
+  "isHostedBySuperhost": false,
+  "isAvailable": true,
+  "listingAmenities": [
+    {
+      "description": "",
+      "id": 9,
+      "isPresent": true,
+      "name": "Free parking on premises"
+    },
+    {
+      "description": "Space where guests can cook their own meals",
+      "id": 8,
+      "isPresent": true,
+      "name": "Kitchen"
+    },
+    {
+      "description": "Available throughout the listing",
+      "id": 4,
+      "isPresent": true,
+      "name": "Wifi"
+    },
+    {
+      "description": "Guests have a desk or table that’s used just for working, along with a comfortable chair.",
+      "id": 47,
+      "isPresent": true,
+      "name": "Dedicated workspace"
+    },
+    {
+      "description": "",
+      "id": 33,
+      "isPresent": false,
+      "name": "Washer"
+    },
+    {
+      "description": "",
+      "id": 45,
+      "isPresent": true,
+      "name": "Hair dryer"
+    },
+    {
+      "description": "",
+      "id": 30,
+      "isPresent": false,
+      "name": "Heating"
+    },
+    {
+      "description": "",
+      "id": 1,
+      "isPresent": false,
+      "name": "TV"
+    },
+    {
+      "description": "Breakfast is provided",
+      "id": 16,
+      "isPresent": true,
+      "name": "Breakfast"
+    },
+    {
+      "description": "",
+      "id": 5,
+      "isPresent": true,
+      "name": "Air conditioning"
+    },
+    {
+      "description": "",
+      "id": 10,
+      "isPresent": true,
+      "name": "Paid parking off premises"
+    },
+    {
+      "description": "The host hasn't reported a smoke detector on the property.",
+      "id": 35,
+      "isPresent": false,
+      "name": "Smoke alarm"
+    },
+    {
+      "description": "The host hasn't reported a carbon monoxide detector on the property.",
+      "id": 36,
+      "isPresent": false,
+      "name": "Carbon monoxide alarm"
+    },
+    {
+      "description": "Towels, bed sheets, soap, and toilet paper",
+      "id": 40,
+      "isPresent": true,
+      "name": "Essentials"
+    },
+    {
+      "description": "",
+      "id": 41,
+      "isPresent": false,
+      "name": "Shampoo"
+    },
+    {
+      "description": "",
+      "id": 46,
+      "isPresent": true,
+      "name": "Iron"
+    },
+    {
+      "description": "Someone is available 24 hours a day to let guests in",
+      "id": 55,
+      "isPresent": true,
+      "name": "Building staff"
+    },
+    {
+      "description": "",
+      "id": 57,
+      "isPresent": false,
+      "name": "Private entrance"
+    },
+    {
+      "description": "",
+      "id": 66,
+      "isPresent": true,
+      "name": "Children’s books and toys"
+    },
+    {
+      "description": "",
+      "id": 74,
+      "isPresent": true,
+      "name": "Children’s dinnerware"
+    },
+    {
+      "description": "Pots and pans, oil, salt and pepper",
+      "id": 94,
+      "isPresent": true,
+      "name": "Cooking basics"
+    }
+  ],
+  "rootAmenitySections": [
+    {
+      "id": "available_amenities",
+      "title": "Amenities",
+      "subtitle": "",
+      "amenityIds": [
+        9,
+        8,
+        4,
+        47
+      ]
+    },
+    {
+      "id": "unavailable_safety_amenities",
+      "title": "Amenities",
+      "subtitle": "The host hasn't reported smoke or carbon monoxide detectors on the property.",
+      "amenityIds": [
+        35,
+        36
+      ]
+    }
+  ],
+  "seeAllAmenitySections": [
+    {
+      "id": "pdp_m2_5_bathroom",
+      "title": "Bathroom",
+      "subtitle": "",
+      "amenityIds": [
+        45
+      ]
+    },
+    {
+      "id": "pdp_m2_5_bedroom_laundry",
+      "title": "Bedroom and laundry",
+      "subtitle": "",
+      "amenityIds": [
+        40,
+        46
+      ]
+    },
+    {
+      "id": "pdp_m2_5_family",
+      "title": "Family",
+      "subtitle": "",
+      "amenityIds": [
+        66,
+        74
+      ]
+    },
+    {
+      "id": "pdp_m2_5_heating_cooling",
+      "title": "Heating and cooling",
+      "subtitle": "",
+      "amenityIds": [
+        5
+      ]
+    },
+    {
+      "id": "pdp_m2_5_internet_office",
+      "title": "Internet and office",
+      "subtitle": "",
+      "amenityIds": [
+        4,
+        47
+      ]
+    },
+    {
+      "id": "pdp_m2_5_kitchen_dining",
+      "title": "Kitchen and dining",
+      "subtitle": "",
+      "amenityIds": [
+        8,
+        94
+      ]
+    },
+    {
+      "id": "pdp_m2_5_parking_facilities",
+      "title": "Parking and facilities",
+      "subtitle": "",
+      "amenityIds": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "pdp_m2_5_services",
+      "title": "Services",
+      "subtitle": "",
+      "amenityIds": [
+        16,
+        55
+      ]
+    },
+    {
+      "id": "pdp_unavailable",
+      "title": "Not included",
+      "subtitle": "",
+      "amenityIds": [
+        33,
+        30,
+        1,
+        35,
+        36,
+        41,
+        57
+      ]
+    }
+  ],
+  "bathroomLabel": "1 private bath",
+  "bedLabel": "2 beds",
+  "bedroomLabel": "1 bedroom",
+  "hasHouseRules": true,
+  "id": 50294483,
+  "isNewListing": false,
+  "listingRooms": [
+    {
+      "beds": [
+        {
+          "id": "144836671/double_bed",
+          "quantity": 1,
+          "type": "double_bed"
+        },
+        {
+          "id": "144836671/crib",
+          "quantity": 2,
+          "type": "crib"
+        }
+      ],
+      "id": 144836671,
+      "roomNumber": 1
+    }
+  ],
+  "p3SummaryAddress": "Udaipur, Rajasthan, India",
+  "roomTypeCategory": "private_room",
+  "sectionedDescription": {
+    "authorType": "human",
+    "description": "King Suite +private Verandah @The Riverside Estate is ideal for a small family of Couple with 2 Kids or even 4 Adults who are looking to spend some time close to nature. We don't offer Luxury but Warmth & Comfort; offering simple food and an experience.\n\nPeople who loved staying here were Nature Lovers, Artists, Writers, Group of Friends who want to reunite and spend some time,  Families who want to expose their kids to nature and Farm life and Human Beings who want to spend time in the hills.\n\nThe Bungalow @The Riverside Estate is a two-step stone cottage with thick walls made by local artisans in a very traditional way. The Bungalow is on the top of a small hill easily accessible by car/two wheeler or by foot. The nearby area is full of vegetation and a river which flows 9 months in a year.\n***********************************************************************************\nThe Bungalow offers accomodation options as below:\n\n** Option 1:  One King-size double-bed Air Conditioned suite with an attached bathroom and a small kitchenette. The room has space to add two single beds and can comfortably take 4 adults.There is also a private open verandah attached to the Suite & a small garden with spectacular views of mountain and surroundings.  (YOU ARE CURRENTLY BOOKING THIS OPTION)\n\n** Option 2:  One Four Bed Family Room in a lower basement room with four single beds. Though it's in the lower basement, it's open from 3 sides and it's quite well ventilated. The room is air-cooled (not air-conditioned), thick stone walls and foliage around makes it very cosy during summers and at the same time it is pretty warm during winters all thanks to the local architecture.  The bathroom for the lower basement room is 10 steps away and is non-attached. (THERE IS ANOTHER LISTING ON AIRBNB FOR THIS ROOM TYPE )\n\n** Option 3: Book entire Villa combining Option 1 & 2 if you are more than 4 people  (THERE IS ANOTHER LISTING ON AIRBNB TO BOOK ENTIRE VILLA)\n***********************************************************************************\n**Food & Outdoor Cooking @The Riverside Estate**\n\nWe offer authentic - pure - local food and need a bit of advance notice to help us prepare some really special delicacies that we excel in. We have two Kitchens - one small kitchen attached to the bedroom (preferred and used by long stay guests) and one down the hill for outdoor cooking (this is our main kitchen). Guests are most welcome to cook by themself with assistance provided from our staff.  We offer both Veg and Non-Veg food and most of the material is either grown or sourced locally. The caretaker family does the cooking and a bit of guidance from you(guest) will be helpful to modify the food taste as per your liking. We also need advance information if any specific food/dishes are to be cooked.\n\n\" How is the food priced? \"\n\nWe have outsourced the food section to caretakers to keep them motivated to deliver the best with back up of ordering from nearby restaurants.\n——————————————\n***  OPTION A: Caretakers have a simple indian food menu available and you can order as per the menu.  Avg. dish cost veg@ 200 and non veg@400\n*** OPTION B: As an option, we have also tied up with one restaurant named 20-20 in Udaipur who provide takeaway. Order time for take away 11 am- 6:30 pm and delivery time is 1.5 hour under normal weather conditions, serving veg and non veg food. The ratings are high for this restaurant on zomato/swiggy. For this payment to be done to the restaurant only.\n*** OPTION C: Suitable for big groups (6 people) and long stay guests (7 days and more); Pay caretakers approx 500 per meal as labour charges plus cost of materials. You can pre-inform your requirements and they will get it done for you. Payments to be made directly to the caretaker family only. \n\nWe have multiple dining options like:  \n1) Under the Mango Tree:- its a favorite summer spot for lunch. Post lunch Buttermilk & a cot under the tree will give you assured sleep in the afternoon.  \n2) By the Outdoor Kitchen:- if  hot wood baked chulha rotis (wheat/maize/bajra) or dal-bati churma is what you are looking for (preferred during winter lunches).\n3) Roof Top with 360 degree view & star lit sky while sipping your drink.\n4) Verandah dining: - The patio sitout with cool breeze best in monsoons. This is a place in the house where you can sit for hours.\nEach living space is designed keeping varied taste in mind and each has its own charm in different weather conditions.\n\n**********************************************************************************\n\n*** We have outsourced the food section to caretakers to keep them motivated and involved.\n*** This place is ideal for families who appreciate nature living and farm stays. We have tried our best to offer amenities for a comfortable stay.\n*** You are allowed to have alcohol provided you can hold your drink.\n*** We are PET FRIENDLY but request the guest to not allow pets on the mattress.\n*** Drugs/Gambling is a STRICT NO.\n*** All Guests need to carry a valid ID CARD.\n*** Unmarried - Suspicious Couples with local id cards may not be allowed.\n*** Right to admission reserved.",
+    "locale": "en",
+    "localizedLanguageName": "English",
+    "name": "Mountain View Suite Pvt. Pool+Balcony+Wifi",
+    "notes": "*** We have outsourced the food section to caretakers to keep them motivated and involved.\n*** This place is ideal for families who appreciate nature living and farm stays. We have tried our best to offer amenities for a comfortable stay.\n*** You are allowed to have alcohol provided you can hold your drink.\n*** We are PET FRIENDLY but request the guest to not allow pets on the mattress.\n*** Drugs/Gambling is a STRICT NO.\n*** All Guests need to carry a valid ID CARD.\n*** Unmarried - Suspicious Couples with local id cards may not be allowed.\n*** Right to admission reserved.",
+    "space": "The Bungalow @The Riverside Estate is a two-step stone cottage with thick walls made by local artisans in a very traditional way. The Bungalow is on the top of a small hill easily accessible by car/two wheeler or by foot. The nearby area is full of vegetation and a river which flows 9 months in a year.\n***********************************************************************************\nThe Bungalow offers accomodation options as below:\n\n** Option 1:  One King-size double-bed Air Conditioned suite with an attached bathroom and a small kitchenette. The room has space to add two single beds and can comfortably take 4 adults.There is also a private open verandah attached to the Suite & a small garden with spectacular views of mountain and surroundings.  (YOU ARE CURRENTLY BOOKING THIS OPTION)\n\n** Option 2:  One Four Bed Family Room in a lower basement room with four single beds. Though it's in the lower basement, it's open from 3 sides and it's quite well ventilated. The room is air-cooled (not air-conditioned), thick stone walls and foliage around makes it very cosy during summers and at the same time it is pretty warm during winters all thanks to the local architecture.  The bathroom for the lower basement room is 10 steps away and is non-attached. (THERE IS ANOTHER LISTING ON AIRBNB FOR THIS ROOM TYPE )\n\n** Option 3: Book entire Villa combining Option 1 & 2 if you are more than 4 people  (THERE IS ANOTHER LISTING ON AIRBNB TO BOOK ENTIRE VILLA)\n***********************************************************************************\n**Food & Outdoor Cooking @The Riverside Estate**\n\nWe offer authentic - pure - local food and need a bit of advance notice to help us prepare some really special delicacies that we excel in. We have two Kitchens - one small kitchen attached to the bedroom (preferred and used by long stay guests) and one down the hill for outdoor cooking (this is our main kitchen). Guests are most welcome to cook by themself with assistance provided from our staff.  We offer both Veg and Non-Veg food and most of the material is either grown or sourced locally. The caretaker family does the cooking and a bit of guidance from you(guest) will be helpful to modify the food taste as per your liking. We also need advance information if any specific food/dishes are to be cooked.\n\n\" How is the food priced? \"\n\nWe have outsourced the food section to caretakers to keep them motivated to deliver the best with back up of ordering from nearby restaurants.\n——————————————\n***  OPTION A: Caretakers have a simple indian food menu available and you can order as per the menu.  Avg. dish cost veg@ 200 and non veg@400\n*** OPTION B: As an option, we have also tied up with one restaurant named 20-20 in Udaipur who provide takeaway. Order time for take away 11 am- 6:30 pm and delivery time is 1.5 hour under normal weather conditions, serving veg and non veg food. The ratings are high for this restaurant on zomato/swiggy. For this payment to be done to the restaurant only.\n*** OPTION C: Suitable for big groups (6 people) and long stay guests (7 days and more); Pay caretakers approx 500 per meal as labour charges plus cost of materials. You can pre-inform your requirements and they will get it done for you. Payments to be made directly to the caretaker family only. \n\nWe have multiple dining options like:  \n1) Under the Mango Tree:- its a favorite summer spot for lunch. Post lunch Buttermilk & a cot under the tree will give you assured sleep in the afternoon.  \n2) By the Outdoor Kitchen:- if  hot wood baked chulha rotis (wheat/maize/bajra) or dal-bati churma is what you are looking for (preferred during winter lunches).\n3) Roof Top with 360 degree view & star lit sky while sipping your drink.\n4) Verandah dining: - The patio sitout with cool breeze best in monsoons. This is a place in the house where you can sit for hours.\nEach living space is designed keeping varied taste in mind and each has its own charm in different weather conditions.\n\n**********************************************************************************",
+    "summary": "King Suite +private Verandah @The Riverside Estate is ideal for a small family of Couple with 2 Kids or even 4 Adults who are looking to spend some time close to nature. We don't offer Luxury but Warmth & Comfort; offering simple food and an experience.\n\nPeople who loved staying here were Nature Lovers, Artists, Writers, Group of Friends who want to reunite and spend some time,  Families who want to expose their kids to nature and Farm life and Human Beings who want to spend time in the hills."
+  },
+  "tierId": 0,
+  "guestControls": {
+    "allowsChildren": true,
+    "allowsEvents": false,
+    "allowsInfants": true,
+    "allowsPets": true,
+    "allowsSmoking": false,
+    "personCapacity": 2,
+    "structuredHouseRules": [
+      "Check-in is flexible"
+    ],
+    "structuredHouseRulesWithTips": [
+      {
+        "key": "check_in_time",
+        "text": "Check-in is flexible",
+        "airmojiKey": "accomodation_keys"
+      },
+      {
+        "key": "self_check_in",
+        "text": "Self check-in with building staff",
+        "airmojiKey": "pdp_room"
+      }
+    ],
+    "allowsNonChinaUsers": true
+  },
+  "hasSpecialOffer": false,
+  "maxNights": 1125,
+  "minNights": 1,
+  "priceDetails": [],
+  "hasWeWorkLocation": false,
+  "isBusinessTravelReady": false,
+  "hometourRooms": [
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 double bed",
+        "2 cribs"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 144836671,
+      "name": "",
+      "nameWithType": "Bedroom 1",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "double_bed",
+          "url": ""
+        },
+        {
+          "type": "crib",
+          "url": ""
+        },
+        {
+          "type": "crib",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "hometourSections": [],
+  "descriptionLocale": "en",
+  "initialDescriptionAuthorType": "human",
+  "localizedCheckInTimeWindow": "Flexible",
+  "localizedCheckOutTime": "",
+  "city": "Udaipur",
+  "country": "India",
+  "countryCode": "IN",
+  "hasHostGuidebook": false,
+  "hasLocalAttractions": false,
+  "neighborhoodCommunityTags": [],
+  "state": "Rajasthan",
+  "paidGrowthRemarketingListingIds": [],
+  "hasCommercialHostInfo": false,
+  "reviewDetailsInterface": {
+    "reviewCount": 2,
+    "reviewSummary": [
+      {
+        "value": 5,
+        "label": "Accuracy",
+        "localizedRating": "2.5",
+        "percentage": 0.5
+      },
+      {
+        "value": 5,
+        "label": "Communication",
+        "localizedRating": "2.5",
+        "percentage": 0.5
+      },
+      {
+        "value": 8,
+        "label": "Cleanliness",
+        "localizedRating": "4.0",
+        "percentage": 0.8
+      },
+      {
+        "value": 10,
+        "label": "Location",
+        "localizedRating": "5.0",
+        "percentage": 1
+      },
+      {
+        "value": 6,
+        "label": "Check-in",
+        "localizedRating": "3.0",
+        "percentage": 0.6
+      },
+      {
+        "value": 7,
+        "label": "Value",
+        "localizedRating": "3.5",
+        "percentage": 0.7
+      }
+    ]
+  },
+  "reviewsOrder": "language_country",
+  "nearbyAirportDistanceDescriptions": [],
+  "renderTierId": 0,
+  "isHotel": false,
+  "showReviewTag": false,
+  "isRepresentativeInventory": false,
+  "localizedCity": "Udaipur",
+  "highlights": [
+    {
+      "type": "LISTING_SELF_CHECKIN",
+      "message": "You can check in with the doorman.",
+      "headline": "Self check-in",
+      "position": "0",
+      "icon": "pdp_room"
+    },
+    {
+      "type": "LISTING_POPULAR_AMENITY",
+      "message": "Guests often search for this popular amenity",
+      "headline": "Pets allowed",
+      "position": "1",
+      "icon": "extras_star"
+    }
+  ],
+  "highlightsImpressionId": "288d7da6-2988-d129-a459-caaaf4732a7b",
+  "categorizedPreviewAmenities": [
+    {
+      "category": "Standard",
+      "amenities": "Kitchen, Wifi, Dedicated workspace, Hair dryer, Air conditioning, and 3 more"
+    },
+    {
+      "category": "Other highlights",
+      "amenities": "Free parking on premises, Breakfast, Paid parking off premises, Building staff, Children’s books and toys, and 1 more"
+    }
+  ],
+  "pointOfInterests": [],
+  "chinaPointsOfInterestMatcha": {},
+  "pageViewType": "DEFAULT",
+  "previewTags": [],
+  "seeAllHometourSections": [],
+  "enableHighlightsVoting": false,
+  "listingExpectations": [],
+  "localizedListingExpectations": [],
+  "heroModule": {
+    "categorizedPhotos": []
+  },
+  "reviewsModule": {},
+  "availabilityModule": {},
+  "additionalHouseRules": "",
+  "sortedReviews": [],
+  "documentDisplayPictures": [],
+  "sections": [],
+  "metadata": {},
+  "p3ImpressionId": "288d7da6-2988-d129-a459-caaaf4732a7b",
+  "idStr": "50294483",
+  "paidGrowthRemarketingListingIdsStr": []
+},
+{
+  "url": "https://www.airbnb.com/rooms/15626028",
+  "name": "Beautiful Cottage in the village of Bujera Udaipur",
+  "stars": null,
+  "numberOfGuests": 7,
+  "address": "Udaipur, Rajasthan, India",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 24.49092,
+    "lng": 73.58379
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1269,
+      "amountFormatted": "$1,269",
+      "currency": "USD",
+      "isMicrosAccuracy": false
+    },
+    "rateType": "nightly"
+  },
+  "photos": [
+    {
+      "caption": "The cottage with the private plunge pool",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/ed226915-3875-42d7-8aa2-177e310d84b7.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/ed226915-3875-42d7-8aa2-177e310d84b7.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The main swimming pool with the cottage behind",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/b3f653fa-3402-48d2-aff5-9c7a787ed531.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/b3f653fa-3402-48d2-aff5-9c7a787ed531.jpg?aki_policy=small"
+    },
+    {
+      "caption": "One of the suite rooms",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/159e2511-13c6-416d-b10e-9b100b45bd7e.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/159e2511-13c6-416d-b10e-9b100b45bd7e.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The suite room with the sitting area",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/f15d44ed-30a3-4653-883b-f429c73a00c3.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/f15d44ed-30a3-4653-883b-f429c73a00c3.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The view from the bed",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/64e10c7a-b4b0-4964-af5d-7a531b942459.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/64e10c7a-b4b0-4964-af5d-7a531b942459.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The twin four poster room",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/d385b4ae-4e2f-4ee4-85c3-2dc4e9183205.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/d385b4ae-4e2f-4ee4-85c3-2dc4e9183205.jpg?aki_policy=small"
+    },
+    {
+      "caption": "One of the bathrooms",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/e925a6b7-2ee4-4452-a7b2-39daab79ea99.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/e925a6b7-2ee4-4452-a7b2-39daab79ea99.jpg?aki_policy=small"
+    },
+    {
+      "caption": "Another view of the bathroom",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/f8723678-7c0c-46a5-bdab-69a4920004e4.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/f8723678-7c0c-46a5-bdab-69a4920004e4.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The gazebo",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/3be29afa-e7e9-4be4-a45b-f47e51fd1b2b.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/3be29afa-e7e9-4be4-a45b-f47e51fd1b2b.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The staircase in the cottage",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/9bdff9b7-def1-41e1-9456-fc1dbc7cab5c.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/9bdff9b7-def1-41e1-9456-fc1dbc7cab5c.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The entrance to the main premises",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/19db4c2b-83fb-45e4-bc2a-113736890251.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/19db4c2b-83fb-45e4-bc2a-113736890251.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The Mughal garden",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/9f3cca1c-4130-44f5-8c36-54ff11ac9a85.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/9f3cca1c-4130-44f5-8c36-54ff11ac9a85.jpg?aki_policy=small"
+    }
+  ],
+  "primaryHost": {
+    "id": 100719791,
+    "firstName": "Richard",
+    "isSuperHost": false,
+    "hasProfilePic": true,
+    "smartName": "Richard",
+    "about": "Hi,\r\n\r\nI came to Udaipur back in the 1970s and fell for the beauty of the Venice of the East - with its lakes, mountains and people. Eventually, I decided to stay here and open up my place so that friends, family and enthusiasts could also soak in this beauty. \r\n\r\nThe natural beauty of the Aravallis and the lakes drew me here and I came with my books and all that I needed to live with. I love reading and some of my favourite authors include Somerset Maughan and Robbert Goddard, and my interest meanders towards biographies. \r\n\r\nI'd love to see you here and it will be nice to chat over everything and anything as the sun sets over the mountains behind. See you soon!",
+    "memberSince": "Joined in October 2016",
+    "languages": [],
+    "hasInclusionBadge": false,
+    "badges": [
+      "Identity verified"
+    ],
+    "hostUrl": "https://www.airbnb.com/users/show/100719791",
+    "pictureUrl": "https://a0.muscache.com/im/pictures/user/3b39c568-8e92-4c70-ba9e-a3a3c5472a3c.jpg?aki_policy=profile_large",
+    "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3b39c568-8e92-4c70-ba9e-a3a3c5472a3c.jpg?aki_policy=profile_small"
+  },
+  "additionalHosts": [],
+  "isHostedBySuperhost": false,
+  "isAvailable": true,
+  "listingAmenities": [
+    {
+      "description": "",
+      "id": 9,
+      "isPresent": true,
+      "name": "Free parking on premises"
+    },
+    {
+      "description": "",
+      "id": 8,
+      "isPresent": false,
+      "name": "Kitchen"
+    },
+    {
+      "description": "Available throughout the listing",
+      "id": 4,
+      "isPresent": true,
+      "name": "Wifi"
+    },
+    {
+      "description": "",
+      "id": 33,
+      "isPresent": false,
+      "name": "Washer"
+    },
+    {
+      "description": "",
+      "id": 7,
+      "isPresent": true,
+      "name": "Pool"
+    },
+    {
+      "description": "",
+      "id": 45,
+      "isPresent": true,
+      "name": "Hair dryer"
+    },
+    {
+      "description": "",
+      "id": 30,
+      "isPresent": true,
+      "name": "Heating"
+    },
+    {
+      "description": "",
+      "id": 1,
+      "isPresent": false,
+      "name": "TV"
+    },
+    {
+      "description": "Breakfast is provided",
+      "id": 16,
+      "isPresent": true,
+      "name": "Breakfast"
+    },
+    {
+      "description": "",
+      "id": 5,
+      "isPresent": true,
+      "name": "Air conditioning"
+    },
+    {
+      "description": "The host hasn't reported a smoke detector on the property.",
+      "id": 35,
+      "isPresent": false,
+      "name": "Smoke alarm"
+    },
+    {
+      "description": "The host hasn't reported a carbon monoxide detector on the property.",
+      "id": 36,
+      "isPresent": false,
+      "name": "Carbon monoxide alarm"
+    },
+    {
+      "description": "",
+      "id": 37,
+      "isPresent": true,
+      "name": "First aid kit"
+    },
+    {
+      "description": "",
+      "id": 39,
+      "isPresent": true,
+      "name": "Fire extinguisher"
+    },
+    {
+      "description": "Towels, bed sheets, soap, and toilet paper",
+      "id": 40,
+      "isPresent": true,
+      "name": "Essentials"
+    },
+    {
+      "description": "",
+      "id": 41,
+      "isPresent": true,
+      "name": "Shampoo"
+    },
+    {
+      "description": "",
+      "id": 44,
+      "isPresent": true,
+      "name": "Hangers"
+    },
+    {
+      "description": "",
+      "id": 46,
+      "isPresent": true,
+      "name": "Iron"
+    },
+    {
+      "description": "",
+      "id": 57,
+      "isPresent": false,
+      "name": "Private entrance"
+    }
+  ],
+  "rootAmenitySections": [
+    {
+      "id": "available_amenities",
+      "title": "Amenities",
+      "subtitle": "",
+      "amenityIds": [
+        9,
+        4,
+        7,
+        45
+      ]
+    },
+    {
+      "id": "unavailable_safety_amenities",
+      "title": "Amenities",
+      "subtitle": "The host hasn't reported smoke or carbon monoxide detectors on the property.",
+      "amenityIds": [
+        35,
+        36
+      ]
+    }
+  ],
+  "seeAllAmenitySections": [
+    {
+      "id": "pdp_m2_5_bathroom",
+      "title": "Bathroom",
+      "subtitle": "",
+      "amenityIds": [
+        45,
+        41
+      ]
+    },
+    {
+      "id": "pdp_m2_5_bedroom_laundry",
+      "title": "Bedroom and laundry",
+      "subtitle": "",
+      "amenityIds": [
+        40,
+        44,
+        46
+      ]
+    },
+    {
+      "id": "pdp_m2_5_heating_cooling",
+      "title": "Heating and cooling",
+      "subtitle": "",
+      "amenityIds": [
+        30,
+        5
+      ]
+    },
+    {
+      "id": "pdp_m2_5_home_safety",
+      "title": "Home safety",
+      "subtitle": "",
+      "amenityIds": [
+        37,
+        39
+      ]
+    },
+    {
+      "id": "pdp_m2_5_internet_office",
+      "title": "Internet and office",
+      "subtitle": "",
+      "amenityIds": [
+        4
+      ]
+    },
+    {
+      "id": "pdp_m2_5_parking_facilities",
+      "title": "Parking and facilities",
+      "subtitle": "",
+      "amenityIds": [
+        9,
+        7
+      ]
+    },
+    {
+      "id": "pdp_m2_5_services",
+      "title": "Services",
+      "subtitle": "",
+      "amenityIds": [
+        16
+      ]
+    },
+    {
+      "id": "pdp_unavailable",
+      "title": "Not included",
+      "subtitle": "",
+      "amenityIds": [
+        8,
+        33,
+        1,
+        35,
+        36,
+        57
+      ]
+    }
+  ],
+  "bathroomLabel": "3 baths",
+  "bedLabel": "3 beds",
+  "bedroomLabel": "3 bedrooms",
+  "hasHouseRules": true,
+  "id": 15626028,
+  "isNewListing": false,
+  "listingRooms": [
+    {
+      "beds": [
+        {
+          "id": "3986830/couch",
+          "quantity": 1,
+          "type": "couch"
+        },
+        {
+          "id": "3986830/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 3986830,
+      "roomNumber": 2
+    },
+    {
+      "beds": [
+        {
+          "id": "3986828/couch",
+          "quantity": 1,
+          "type": "couch"
+        },
+        {
+          "id": "3986828/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 3986828,
+      "roomNumber": 1
+    },
+    {
+      "beds": [
+        {
+          "id": "3986833/couch",
+          "quantity": 1,
+          "type": "couch"
+        }
+      ],
+      "id": 3986833,
+      "roomNumber": 0
+    },
+    {
+      "beds": [
+        {
+          "id": "3986831/couch",
+          "quantity": 1,
+          "type": "couch"
+        },
+        {
+          "id": "3986831/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 3986831,
+      "roomNumber": 3
+    }
+  ],
+  "p3SummaryAddress": "Udaipur, Rajasthan, India",
+  "roomTypeCategory": "entire_home",
+  "sectionedDescription": {
+    "access": "- The entire cottage is at your private disposal including the plunge pool\n- Guests can also access the main swimming pool and the gardens.\n- For the bibliophiles, there is a great library as well within the premises.\n- The main dining area is also there for guest access.\n- All facilities in the main premises are at the guests' disposal.",
+    "authorType": "human",
+    "description": "I had designed the entire cottage with great care and attention to detail come  and take in the countryside of Udaipur. The cottage is immaculately done with a great sitout, a gazebo, a plunge pool, 3 excellent bedrooms rooms, bathrooms with a marble bathtub and shower, and a private garden. Two rooms have private balconies with views of the City Palace and the Monsoon Palace. You can gaze over the fields and the forests of Udaipur to the palaces. It is the perfect place to spend a few nights.\n\nNestled in the Aravalli hills, my place is perfect for the great weekend away or for some much needed rest and relaxation during your great Indian adventure. Udaipur is a city of palaces and lakes and this is a luxurious cottage in this city - made just for modern Maharajas and Maharanis. The cottage opens out to views of lush green hills with a view stretching out over small farms to the palaces of Udaipur.\n\nEach room says its own story in terms of design style and the sheer comfort that it offers. The beds are all four-poster king sized beds with the spring mattresses on offer. The rooms have their own windows and opening out to the plunge pool in the cottage and the views beyond.\n\nEvery room comes with an attached bathroom - one made of marble and having the rare option of both a shower and a bathtub.\n\nThere are 2 rooms on the first floor and one on the ground floor. The rooms on the first floor open out to the landing area with its own small bookcase. The staircase would then lead you down  to the room on the ground floor and the great covered outdoor seating place. The room on the groundfloor is wheelchair friendly. The cottage then opens out to the cozy plunge pool. Beyond the pool lies a small door leading to the garden.\n\n- The entire cottage is at your private disposal including the plunge pool\n- Guests can also access the main swimming pool and the gardens.\n- For the bibliophiles, there is a great library as well within the premises.\n- The main dining area is also there for guest access.\n- All facilities in the main premises are at the guests' disposal.\n\nOur staff and I will be available to assist with any guest needs. We understand guest needs for space and quiet.\n\nIt's a rural community on the edge of two villages yet only 15 minutes drive from the city. Great walking and easy access by car or taxi to the delights of udaipur, shopping, sightseeing and restaurants.\n\n- Being in a village on the outskirts of Udaipur, there is little public transport. \n- Taxis can be arranged on prior request.\n\n- We have bicycles free of charge to roam around the village in and WiFi free in most areas. \n- Breakfast is complimentary.",
+    "houseRules": "- Please treat and respect this place like your own home.",
+    "interaction": "Our staff and I will be available to assist with any guest needs. We understand guest needs for space and quiet.",
+    "locale": "en",
+    "localizedLanguageName": "English",
+    "name": "Beautiful Cottage in the village of Bujera Udaipur",
+    "neighborhoodOverview": "It's a rural community on the edge of two villages yet only 15 minutes drive from the city. Great walking and easy access by car or taxi to the delights of udaipur, shopping, sightseeing and restaurants.",
+    "notes": "- We have bicycles free of charge to roam around the village in and WiFi free in most areas. \n- Breakfast is complimentary.",
+    "space": "Nestled in the Aravalli hills, my place is perfect for the great weekend away or for some much needed rest and relaxation during your great Indian adventure. Udaipur is a city of palaces and lakes and this is a luxurious cottage in this city - made just for modern Maharajas and Maharanis. The cottage opens out to views of lush green hills with a view stretching out over small farms to the palaces of Udaipur.\n\nEach room says its own story in terms of design style and the sheer comfort that it offers. The beds are all four-poster king sized beds with the spring mattresses on offer. The rooms have their own windows and opening out to the plunge pool in the cottage and the views beyond.\n\nEvery room comes with an attached bathroom - one made of marble and having the rare option of both a shower and a bathtub.\n\nThere are 2 rooms on the first floor and one on the ground floor. The rooms on the first floor open out to the landing area with its own small bookcase. The staircase would then lead you down  to the room on the ground floor and the great covered outdoor seating place. The room on the groundfloor is wheelchair friendly. The cottage then opens out to the cozy plunge pool. Beyond the pool lies a small door leading to the garden.",
+    "summary": "I had designed the entire cottage with great care and attention to detail come  and take in the countryside of Udaipur. The cottage is immaculately done with a great sitout, a gazebo, a plunge pool, 3 excellent bedrooms rooms, bathrooms with a marble bathtub and shower, and a private garden. Two rooms have private balconies with views of the City Palace and the Monsoon Palace. You can gaze over the fields and the forests of Udaipur to the palaces. It is the perfect place to spend a few nights.",
+    "transit": "- Being in a village on the outskirts of Udaipur, there is little public transport. \n- Taxis can be arranged on prior request."
+  },
+  "tierId": 0,
+  "guestControls": {
+    "allowsChildren": true,
+    "allowsEvents": false,
+    "allowsInfants": true,
+    "allowsPets": false,
+    "allowsSmoking": false,
+    "personCapacity": 7,
+    "structuredHouseRules": [
+      "No pets",
+      "No smoking, parties, or events",
+      "Check-in is anytime after 12PM (noon) and check out by 11AM"
+    ],
+    "structuredHouseRulesWithTips": [
+      {
+        "key": "are_pets_allowed_as_host",
+        "text": "No pets",
+        "airmojiKey": "house_rules_no_pets"
+      },
+      {
+        "key": "are_smoking_and_events_allowed",
+        "text": "No smoking, parties, or events",
+        "airmojiKey": "accomodation_home"
+      },
+      {
+        "key": "check_in_time_and_check_out_time",
+        "text": "Check-in is anytime after 12PM (noon) and check out by 11AM",
+        "airmojiKey": "accomodation_keys"
+      }
+    ],
+    "allowsNonChinaUsers": true
+  },
+  "hasSpecialOffer": false,
+  "maxNights": 1125,
+  "minNights": 1,
+  "priceDetails": [
+    {
+      "label": "Extra people",
+      "value": "$77 per night after 6 guests",
+      "attributeType": "EXTRA_PEOPLE"
+    }
+  ],
+  "hasWeWorkLocation": false,
+  "isBusinessTravelReady": false,
+  "hometourRooms": [
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed",
+        "1 couch"
+      ],
+      "highlightsPreview": [],
+      "isShared": true,
+      "id": 3986828,
+      "name": "",
+      "nameWithType": "Bedroom 1",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        },
+        {
+          "type": "couch",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed",
+        "1 couch"
+      ],
+      "highlightsPreview": [],
+      "isShared": true,
+      "id": 3986830,
+      "name": "",
+      "nameWithType": "Bedroom 2",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        },
+        {
+          "type": "couch",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed",
+        "1 couch"
+      ],
+      "highlightsPreview": [],
+      "isShared": true,
+      "id": 3986831,
+      "name": "",
+      "nameWithType": "Bedroom 3",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        },
+        {
+          "type": "couch",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "hometourSections": [],
+  "descriptionLocale": "en",
+  "initialDescriptionAuthorType": "human",
+  "localizedCheckInTimeWindow": "After 12:00 PM",
+  "localizedCheckOutTime": "11:00 AM",
+  "city": "Udaipur",
+  "country": "India",
+  "countryCode": "IN",
+  "hasHostGuidebook": false,
+  "hasLocalAttractions": false,
+  "neighborhoodCommunityTags": [],
+  "state": "Rajasthan",
+  "paidGrowthRemarketingListingIds": [],
+  "hasCommercialHostInfo": false,
+  "reviewDetailsInterface": {
+    "reviewCount": 0,
+    "reviewSummary": []
+  },
+  "reviewsOrder": "language_country",
+  "nearbyAirportDistanceDescriptions": [],
+  "renderTierId": 0,
+  "isHotel": false,
+  "showReviewTag": false,
+  "isRepresentativeInventory": false,
+  "localizedCity": "Udaipur",
+  "highlights": [
+    {
+      "type": "LISTING_ENTIRE_HOME_PROPERTY_TYPE",
+      "message": "You’ll have the villa to yourself.",
+      "headline": "Entire home",
+      "position": "0",
+      "icon": "accomodation_home"
+    },
+    {
+      "type": "LISTING_POPULAR_AMENITY",
+      "message": "Guests often search for this popular amenity",
+      "headline": "Pool",
+      "position": "1",
+      "icon": "extras_star"
+    }
+  ],
+  "highlightsImpressionId": "ddadde97-4a4e-b86e-8034-471ee693415e",
+  "categorizedPreviewAmenities": [
+    {
+      "category": "Standard",
+      "amenities": "Wifi, Hair dryer, Heating, Air conditioning, Fire extinguisher, and 4 more"
+    },
+    {
+      "category": "Other highlights",
+      "amenities": "Free parking on premises, Pool, Breakfast, First aid kit"
+    }
+  ],
+  "pointOfInterests": [],
+  "chinaPointsOfInterestMatcha": {},
+  "pageViewType": "DEFAULT",
+  "previewTags": [],
+  "seeAllHometourSections": [],
+  "enableHighlightsVoting": false,
+  "listingExpectations": [],
+  "localizedListingExpectations": [],
+  "heroModule": {
+    "categorizedPhotos": []
+  },
+  "reviewsModule": {},
+  "availabilityModule": {},
+  "additionalHouseRules": "- Please treat and respect this place like your own home.",
+  "sortedReviews": [],
+  "documentDisplayPictures": [],
+  "sections": [],
+  "metadata": {},
+  "p3ImpressionId": "ddadde97-4a4e-b86e-8034-471ee693415e",
+  "idStr": "15626028",
+  "paidGrowthRemarketingListingIdsStr": []
+},
+{
+  "url": "https://www.airbnb.com/rooms/15625438",
+  "name": "Beautiful suite in Bujera viewing the city palace",
+  "stars": null,
+  "numberOfGuests": 3,
+  "address": "Udaipur, Rajasthan, India",
+  "roomType": "Private room in villa",
+  "location": {
+    "lat": 24.48927,
+    "lng": 73.58372
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 423,
+      "is_micros_accuracy": false
+    }
+  },
+  "photos": [
+    {
+      "caption": "The bedroom",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/27a00717-24ec-4e5c-b791-f20c5017b8eb.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/27a00717-24ec-4e5c-b791-f20c5017b8eb.jpg?aki_policy=small"
+    },
+    {
+      "caption": "Another view of the bedroom",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/01bf5ec3-8cde-400b-96dc-44d695746cbd.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/01bf5ec3-8cde-400b-96dc-44d695746cbd.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The bed and the balcony",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/1058c6a1-69e1-4c75-9693-6972dad529f9.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/1058c6a1-69e1-4c75-9693-6972dad529f9.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The bedroom",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/75ec6158-f702-40a7-9027-75140c73b06b.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/75ec6158-f702-40a7-9027-75140c73b06b.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The bathroom",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/b5cf0ae3-c3f9-4566-915b-b2effd128c6f.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/b5cf0ae3-c3f9-4566-915b-b2effd128c6f.jpg?aki_policy=small"
+    },
+    {
+      "caption": "Another view of the bathroom",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/f6a98205-4a9b-496b-a553-2004e169fc5c.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/f6a98205-4a9b-496b-a553-2004e169fc5c.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The entrance",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/70ce7fe4-5e3e-4efc-afd1-8082bde469c7.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/70ce7fe4-5e3e-4efc-afd1-8082bde469c7.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The library",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/f8b1730d-1f6d-4641-a2ac-be72eea69e8e.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/f8b1730d-1f6d-4641-a2ac-be72eea69e8e.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The private plunge pool",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/45e3ffba-f43f-432b-9ee1-d899d196fe6b.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/45e3ffba-f43f-432b-9ee1-d899d196fe6b.jpg?aki_policy=small"
+    },
+    {
+      "caption": "The drawing room",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/1c6c8225-e447-4d3a-9b28-1e59110b994d.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/1c6c8225-e447-4d3a-9b28-1e59110b994d.jpg?aki_policy=small"
+    }
+  ],
+  "primaryHost": {
+    "id": 100719791,
+    "firstName": "Richard",
+    "isSuperHost": false,
+    "hasProfilePic": true,
+    "smartName": "Richard",
+    "about": "Hi,\r\n\r\nI came to Udaipur back in the 1970s and fell for the beauty of the Venice of the East - with its lakes, mountains and people. Eventually, I decided to stay here and open up my place so that friends, family and enthusiasts could also soak in this beauty. \r\n\r\nThe natural beauty of the Aravallis and the lakes drew me here and I came with my books and all that I needed to live with. I love reading and some of my favourite authors include Somerset Maughan and Robbert Goddard, and my interest meanders towards biographies. \r\n\r\nI'd love to see you here and it will be nice to chat over everything and anything as the sun sets over the mountains behind. See you soon!",
+    "memberSince": "Joined in October 2016",
+    "languages": [],
+    "hasInclusionBadge": false,
+    "badges": [
+      "Identity verified"
+    ],
+    "hostUrl": "https://www.airbnb.com/users/show/100719791",
+    "pictureUrl": "https://a0.muscache.com/im/pictures/user/3b39c568-8e92-4c70-ba9e-a3a3c5472a3c.jpg?aki_policy=profile_large",
+    "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3b39c568-8e92-4c70-ba9e-a3a3c5472a3c.jpg?aki_policy=profile_small"
+  },
+  "additionalHosts": [],
+  "isHostedBySuperhost": false,
+  "listingAmenities": [
+    {
+      "description": "",
+      "id": 9,
+      "isPresent": true,
+      "name": "Free parking on premises"
+    },
+    {
+      "description": "",
+      "id": 8,
+      "isPresent": false,
+      "name": "Kitchen"
+    },
+    {
+      "description": "Available throughout the listing",
+      "id": 4,
+      "isPresent": true,
+      "name": "Wifi"
+    },
+    {
+      "description": "",
+      "id": 33,
+      "isPresent": false,
+      "name": "Washer"
+    },
+    {
+      "description": "",
+      "id": 7,
+      "isPresent": true,
+      "name": "Pool"
+    },
+    {
+      "description": "",
+      "id": 45,
+      "isPresent": true,
+      "name": "Hair dryer"
+    },
+    {
+      "description": "",
+      "id": 30,
+      "isPresent": true,
+      "name": "Heating"
+    },
+    {
+      "description": "",
+      "id": 1,
+      "isPresent": false,
+      "name": "TV"
+    },
+    {
+      "description": "Breakfast is provided",
+      "id": 16,
+      "isPresent": true,
+      "name": "Breakfast"
+    },
+    {
+      "description": "",
+      "id": 5,
+      "isPresent": true,
+      "name": "Air conditioning"
+    },
+    {
+      "description": "The host hasn't reported a smoke detector on the property.",
+      "id": 35,
+      "isPresent": false,
+      "name": "Smoke alarm"
+    },
+    {
+      "description": "The host hasn't reported a carbon monoxide detector on the property.",
+      "id": 36,
+      "isPresent": false,
+      "name": "Carbon monoxide alarm"
+    },
+    {
+      "description": "",
+      "id": 37,
+      "isPresent": true,
+      "name": "First aid kit"
+    },
+    {
+      "description": "",
+      "id": 39,
+      "isPresent": true,
+      "name": "Fire extinguisher"
+    },
+    {
+      "description": "Towels, bed sheets, soap, and toilet paper",
+      "id": 40,
+      "isPresent": true,
+      "name": "Essentials"
+    },
+    {
+      "description": "",
+      "id": 41,
+      "isPresent": true,
+      "name": "Shampoo"
+    },
+    {
+      "description": "Private room can be locked for safety and privacy",
+      "id": 42,
+      "isPresent": true,
+      "name": "Lock on bedroom door"
+    },
+    {
+      "description": "",
+      "id": 44,
+      "isPresent": true,
+      "name": "Hangers"
+    },
+    {
+      "description": "",
+      "id": 57,
+      "isPresent": false,
+      "name": "Private entrance"
+    }
+  ],
+  "rootAmenitySections": [
+    {
+      "id": "available_amenities",
+      "title": "Amenities",
+      "subtitle": "",
+      "amenityIds": [
+        9,
+        4,
+        7,
+        45
+      ]
+    },
+    {
+      "id": "unavailable_safety_amenities",
+      "title": "Amenities",
+      "subtitle": "The host hasn't reported smoke or carbon monoxide detectors on the property.",
+      "amenityIds": [
+        35,
+        36
+      ]
+    }
+  ],
+  "seeAllAmenitySections": [
+    {
+      "id": "pdp_m2_5_bathroom",
+      "title": "Bathroom",
+      "subtitle": "",
+      "amenityIds": [
+        45,
+        41
+      ]
+    },
+    {
+      "id": "pdp_m2_5_bedroom_laundry",
+      "title": "Bedroom and laundry",
+      "subtitle": "",
+      "amenityIds": [
+        40,
+        44
+      ]
+    },
+    {
+      "id": "pdp_m2_5_heating_cooling",
+      "title": "Heating and cooling",
+      "subtitle": "",
+      "amenityIds": [
+        30,
+        5
+      ]
+    },
+    {
+      "id": "pdp_m2_5_home_safety",
+      "title": "Home safety",
+      "subtitle": "",
+      "amenityIds": [
+        37,
+        39,
+        42
+      ]
+    },
+    {
+      "id": "pdp_m2_5_internet_office",
+      "title": "Internet and office",
+      "subtitle": "",
+      "amenityIds": [
+        4
+      ]
+    },
+    {
+      "id": "pdp_m2_5_parking_facilities",
+      "title": "Parking and facilities",
+      "subtitle": "",
+      "amenityIds": [
+        9,
+        7
+      ]
+    },
+    {
+      "id": "pdp_m2_5_services",
+      "title": "Services",
+      "subtitle": "",
+      "amenityIds": [
+        16
+      ]
+    },
+    {
+      "id": "pdp_unavailable",
+      "title": "Not included",
+      "subtitle": "",
+      "amenityIds": [
+        8,
+        33,
+        1,
+        35,
+        36,
+        57
+      ]
+    }
+  ],
+  "bathroomLabel": "1 bath",
+  "bedLabel": "1 bed",
+  "bedroomLabel": "1 bedroom",
+  "hasHouseRules": true,
+  "id": 15625438,
+  "isNewListing": false,
+  "listingRooms": [
+    {
+      "beds": [
+        {
+          "id": "3986931/couch",
+          "quantity": 1,
+          "type": "couch"
+        }
+      ],
+      "id": 3986931,
+      "roomNumber": 0
+    },
+    {
+      "beds": [
+        {
+          "id": "3986930/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 3986930,
+      "roomNumber": 1
+    }
+  ],
+  "p3SummaryAddress": "Udaipur, Rajasthan, India",
+  "roomTypeCategory": "private_room",
+  "sectionedDescription": {
+    "access": "- The landing areas\n- The outdoor covered sitting area and plunge pool\n- The organic garden\n- The pool in the main premises\n- The library and the restaurant in the main premises\n- All other common facilities are available to the guest.",
+    "authorType": "human",
+    "description": "Large room with views of City Palace, Monsoon Palace. Silver, 6' king sized four poster bed with 8\" interior sprung mattress, balcony overlooking palaces and surrounding countryside. Dressing areas, marble bathroom with walk-in shower and bathtub.  Central air-conditioning and heat. \nThe neighbourhood with its great walks in the villages and hills and the architectural splendour of Udaipur just 25 minutes away.\n\nImagine yourself waking up to the chirp of birds as the sunlight streams in through the windows. Imagine yourself waking up to the views of small farms and the palaces of Udaipur stretched over them. Imagine yourself in all the quiet that you could ask for. At the end of your Indian sojourn, you will be pleasantly surprised that a place could provide for all this.\n\nMy place is a large room with views of the City Palace and the Monsoon Palace. There is a silver 6-feet king sized four poster bed with spring mattress. There is also a balcony overlooking palaces and the surrounding countryside. Then there are the dressing areas and a marble bathroom.\n\nOutside the room are the gardens, the great dining room, an inviting pool, a library and great common areas to just sit back and take in the views from.\n\n- The landing areas\n- The outdoor covered sitting area and plunge pool\n- The organic garden\n- The pool in the main premises\n- The library and the restaurant in the main premises\n- All other common facilities are available to the guest.\n\nI am here to help along with a full staff to deal with any guest needs. We respect the need for space and quiet for the guests.\n\nIt's a rural community on the edge of two villages yet only 15 minutes drive from the city. Great walking and easy access by car or taxi to the delights of udaipur, shopping, sightseeing and restaurants.\n\n- Being in a village on the outskirts of Udaipur, there is little public transport. - Taxis can be arranged on prior request.\n\n- We have bicycles free of charge and Wifi free in most areas. \n- Complimentary breakfast.",
+    "houseRules": "- Please treat and respect this place like your own home.",
+    "interaction": "I am here to help along with a full staff to deal with any guest needs. We respect the need for space and quiet for the guests.",
+    "locale": "en",
+    "localizedLanguageName": "English",
+    "name": "Beautiful suite in Bujera viewing the city palace",
+    "neighborhoodOverview": "It's a rural community on the edge of two villages yet only 15 minutes drive from the city. Great walking and easy access by car or taxi to the delights of udaipur, shopping, sightseeing and restaurants.",
+    "notes": "- We have bicycles free of charge and Wifi free in most areas. \n- Complimentary breakfast.",
+    "space": "Imagine yourself waking up to the chirp of birds as the sunlight streams in through the windows. Imagine yourself waking up to the views of small farms and the palaces of Udaipur stretched over them. Imagine yourself in all the quiet that you could ask for. At the end of your Indian sojourn, you will be pleasantly surprised that a place could provide for all this.\n\nMy place is a large room with views of the City Palace and the Monsoon Palace. There is a silver 6-feet king sized four poster bed with spring mattress. There is also a balcony overlooking palaces and the surrounding countryside. Then there are the dressing areas and a marble bathroom.\n\nOutside the room are the gardens, the great dining room, an inviting pool, a library and great common areas to just sit back and take in the views from.",
+    "summary": "Large room with views of City Palace, Monsoon Palace. Silver, 6' king sized four poster bed with 8\" interior sprung mattress, balcony overlooking palaces and surrounding countryside. Dressing areas, marble bathroom with walk-in shower and bathtub.  Central air-conditioning and heat. \nThe neighbourhood with its great walks in the villages and hills and the architectural splendour of Udaipur just 25 minutes away.",
+    "transit": "- Being in a village on the outskirts of Udaipur, there is little public transport. - Taxis can be arranged on prior request."
+  },
+  "tierId": 0,
+  "guestControls": {
+    "allowsChildren": true,
+    "allowsEvents": false,
+    "allowsInfants": true,
+    "allowsPets": false,
+    "allowsSmoking": false,
+    "personCapacity": 3,
+    "structuredHouseRules": [
+      "No pets",
+      "No smoking, parties, or events",
+      "Check-in is anytime after 12PM (noon) and check out by 11AM"
+    ],
+    "structuredHouseRulesWithTips": [
+      {
+        "key": "are_pets_allowed_as_host",
+        "text": "No pets",
+        "airmojiKey": "house_rules_no_pets"
+      },
+      {
+        "key": "are_smoking_and_events_allowed",
+        "text": "No smoking, parties, or events",
+        "airmojiKey": "accomodation_home"
+      },
+      {
+        "key": "check_in_time_and_check_out_time",
+        "text": "Check-in is anytime after 12PM (noon) and check out by 11AM",
+        "airmojiKey": "accomodation_keys"
+      }
+    ],
+    "allowsNonChinaUsers": true
+  },
+  "hasSpecialOffer": false,
+  "maxNights": 1125,
+  "minNights": 1,
+  "priceDetails": [
+    {
+      "label": "Extra people",
+      "value": "$77 per night after 2 guests",
+      "attributeType": "EXTRA_PEOPLE"
+    }
+  ],
+  "hasWeWorkLocation": false,
+  "isBusinessTravelReady": false,
+  "hometourRooms": [
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": true,
+      "id": 3986930,
+      "name": "",
+      "nameWithType": "Bedroom 1",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "hometourSections": [],
+  "descriptionLocale": "en",
+  "initialDescriptionAuthorType": "human",
+  "localizedCheckInTimeWindow": "After 12:00 PM",
+  "localizedCheckOutTime": "11:00 AM",
+  "city": "Udaipur",
+  "country": "India",
+  "countryCode": "IN",
+  "hasHostGuidebook": false,
+  "hasLocalAttractions": false,
+  "neighborhoodCommunityTags": [],
+  "state": "Rajasthan",
+  "paidGrowthRemarketingListingIds": [],
+  "hasCommercialHostInfo": false,
+  "reviewDetailsInterface": {
+    "reviewCount": 0,
+    "reviewSummary": []
+  },
+  "reviewsOrder": "language_country",
+  "nearbyAirportDistanceDescriptions": [],
+  "renderTierId": 0,
+  "isHotel": false,
+  "showReviewTag": false,
+  "isRepresentativeInventory": false,
+  "localizedCity": "Udaipur",
+  "highlights": [
+    {
+      "type": "LISTING_POPULAR_AMENITY",
+      "message": "Guests often search for this popular amenity",
+      "headline": "Pool",
+      "position": "0",
+      "icon": "extras_star"
+    }
+  ],
+  "highlightsImpressionId": "0d7a4e34-bc6f-212f-5f6c-f2cab3c83758",
+  "categorizedPreviewAmenities": [
+    {
+      "category": "Standard",
+      "amenities": "Wifi, Hair dryer, Heating, Air conditioning, Fire extinguisher, and 4 more"
+    },
+    {
+      "category": "Other highlights",
+      "amenities": "Free parking on premises, Pool, Breakfast, First aid kit"
+    }
+  ],
+  "pointOfInterests": [],
+  "chinaPointsOfInterestMatcha": {},
+  "pageViewType": "DEFAULT",
+  "previewTags": [],
+  "seeAllHometourSections": [],
+  "enableHighlightsVoting": false,
+  "listingExpectations": [],
+  "localizedListingExpectations": [],
+  "heroModule": {
+    "categorizedPhotos": []
+  },
+  "reviewsModule": {},
+  "availabilityModule": {},
+  "additionalHouseRules": "- Please treat and respect this place like your own home.",
+  "sortedReviews": [],
+  "documentDisplayPictures": [],
+  "sections": [],
+  "metadata": {},
+  "p3ImpressionId": "0d7a4e34-bc6f-212f-5f6c-f2cab3c83758",
+  "idStr": "15625438",
+  "paidGrowthRemarketingListingIdsStr": []
+},
+{
+  "url": "https://www.airbnb.com/rooms/39484789",
+  "name": "Hotel Castle Inn Awesome entire property 18 Rooms",
+  "stars": null,
+  "numberOfGuests": 16,
+  "address": "Udaipur, Rajasthan, India",
+  "roomType": "Room in boutique hotel",
+  "location": {
+    "lat": 24.5937,
+    "lng": 73.69535
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 435,
+      "is_micros_accuracy": false
+    }
+  },
+  "photos": [
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/7f4ea0ea-b15f-4c7e-9865-f5ebb378ed95.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/7f4ea0ea-b15f-4c7e-9865-f5ebb378ed95.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/f7d53364-57ef-4a60-96f1-48a11cc2c913.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/f7d53364-57ef-4a60-96f1-48a11cc2c913.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/cd7bde3c-7b52-4c19-aa3a-247d93353b6b.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/cd7bde3c-7b52-4c19-aa3a-247d93353b6b.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/b3297b16-47e2-4075-b409-7e3becbe35f9.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/b3297b16-47e2-4075-b409-7e3becbe35f9.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/2d29f341-8b9e-4641-b76e-5e27b21f61e8.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/2d29f341-8b9e-4641-b76e-5e27b21f61e8.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/345c3424-b72a-4f00-9d82-42553fe8ec06.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/345c3424-b72a-4f00-9d82-42553fe8ec06.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/65d3c936-4de8-4345-ab42-781f9b774c93.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/65d3c936-4de8-4345-ab42-781f9b774c93.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/1e447c0d-fde5-4137-b0e2-17ac6a812b2d.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/1e447c0d-fde5-4137-b0e2-17ac6a812b2d.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/7f063b87-d175-4548-b2a1-7dad315aeada.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/7f063b87-d175-4548-b2a1-7dad315aeada.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/f3e8288d-669a-43e2-97c7-338c95042bb6.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/f3e8288d-669a-43e2-97c7-338c95042bb6.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/9bd8adc2-f672-4e9b-863d-0873ac2e90df.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/9bd8adc2-f672-4e9b-863d-0873ac2e90df.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/4dc76fe6-e34d-4dd5-bd50-f6373e90871e.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/4dc76fe6-e34d-4dd5-bd50-f6373e90871e.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/b24dcfdc-8f46-479d-b7f4-418a8a5bd247.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/b24dcfdc-8f46-479d-b7f4-418a8a5bd247.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/a27ecc32-9184-44b3-b94d-1af16b452bcb.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/a27ecc32-9184-44b3-b94d-1af16b452bcb.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/c0a6468b-7640-4538-bbf0-2072ea7ed3ca.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/c0a6468b-7640-4538-bbf0-2072ea7ed3ca.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/e773d3ee-1935-4bfa-a4df-7c0bc8323b03.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/e773d3ee-1935-4bfa-a4df-7c0bc8323b03.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/bbca2548-9836-4bea-a3dd-4b0519477339.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/bbca2548-9836-4bea-a3dd-4b0519477339.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/b2ab6b01-f041-4267-806b-be79b3107083.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/b2ab6b01-f041-4267-806b-be79b3107083.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/7b1f18c6-3200-420d-9ae8-738d4a9c8649.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/7b1f18c6-3200-420d-9ae8-738d4a9c8649.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/40f368d5-9126-4a7d-ba04-7b6ee6428d17.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/40f368d5-9126-4a7d-ba04-7b6ee6428d17.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/11839852-fe69-40ac-a471-8f6487930605.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/11839852-fe69-40ac-a471-8f6487930605.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/26076924-fe6e-460f-b9c4-c68a5fa7f751.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/26076924-fe6e-460f-b9c4-c68a5fa7f751.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/262548f3-b52f-408a-9dae-954536db8140.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/262548f3-b52f-408a-9dae-954536db8140.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/8cfae5dc-9086-4218-9b35-7585ce699dd3.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/8cfae5dc-9086-4218-9b35-7585ce699dd3.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/ccf0408b-bb57-448f-a589-771e8c58659d.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/ccf0408b-bb57-448f-a589-771e8c58659d.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/3dd87ce5-b19f-4df7-9db8-b150152f815f.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/3dd87ce5-b19f-4df7-9db8-b150152f815f.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/f72c545d-7bb3-498d-84f0-ca3190653168.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/f72c545d-7bb3-498d-84f0-ca3190653168.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/073f2e2d-b56a-41a9-bb4e-f37f969cb358.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/073f2e2d-b56a-41a9-bb4e-f37f969cb358.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/97e20c8b-940b-4bd3-861c-48e3047b6d8a.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/97e20c8b-940b-4bd3-861c-48e3047b6d8a.jpg?aki_policy=small"
+    },
+    {
+      "caption": "",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/330c0214-086a-41f6-b59b-0e617afd34d5.jpg?aki_policy=large",
+      "thumbnailUrl": "https://a0.muscache.com/im/pictures/330c0214-086a-41f6-b59b-0e617afd34d5.jpg?aki_policy=small"
+    }
+  ],
+  "primaryHost": {
+    "id": 153716906,
+    "firstName": "Gaurav",
+    "isSuperHost": false,
+    "hasProfilePic": true,
+    "smartName": "Gaurav",
+    "about": "Namaste we are Nikita & Gaurav from the beautiful city of lakes & mountains Udaipur. Developed with passion & delicacy of Mewar Hospitality we welcomes  the fellow travelers from round  the globe to experience the city of  lakes with the comfort of our homestay.   ",
+    "memberSince": "Joined in October 2017",
+    "languages": [
+      "English",
+      "हिन्दी"
+    ],
+    "responseRate": "0%",
+    "responseTime": "a few days or more",
+    "hasInclusionBadge": false,
+    "badges": [
+      "6 Reviews",
+      "Identity verified"
+    ],
+    "hostUrl": "https://www.airbnb.com/users/show/153716906",
+    "pictureUrl": "https://a0.muscache.com/im/pictures/user/User-153716906/original/a2ff39dc-1e8d-48ed-b4e3-08831fbd1857.jpeg?aki_policy=profile_large",
+    "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-153716906/original/a2ff39dc-1e8d-48ed-b4e3-08831fbd1857.jpeg?aki_policy=profile_small"
+  },
+  "additionalHosts": [],
+  "isHostedBySuperhost": false,
+  "listingAmenities": [
+    {
+      "description": "The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide.",
+      "id": 21,
+      "isPresent": true,
+      "name": "Elevator"
+    },
+    {
+      "description": "",
+      "id": 9,
+      "isPresent": true,
+      "name": "Free parking on premises"
+    },
+    {
+      "description": "",
+      "id": 8,
+      "isPresent": false,
+      "name": "Kitchen"
+    },
+    {
+      "description": "Available throughout the listing",
+      "id": 4,
+      "isPresent": true,
+      "name": "Wifi"
+    },
+    {
+      "description": "",
+      "id": 33,
+      "isPresent": false,
+      "name": "Washer"
+    },
+    {
+      "description": "",
+      "id": 45,
+      "isPresent": false,
+      "name": "Hair dryer"
+    },
+    {
+      "description": "",
+      "id": 30,
+      "isPresent": false,
+      "name": "Heating"
+    },
+    {
+      "description": "",
+      "id": 2,
+      "isPresent": true,
+      "name": "Cable TV"
+    },
+    {
+      "description": "",
+      "id": 1,
+      "isPresent": true,
+      "name": "TV"
+    },
+    {
+      "description": "Breakfast is provided",
+      "id": 16,
+      "isPresent": true,
+      "name": "Breakfast"
+    },
+    {
+      "description": "",
+      "id": 5,
+      "isPresent": true,
+      "name": "Air conditioning"
+    },
+    {
+      "description": "The host hasn't reported a smoke detector on the property.",
+      "id": 35,
+      "isPresent": false,
+      "name": "Smoke alarm"
+    },
+    {
+      "description": "The host hasn't reported a carbon monoxide detector on the property.",
+      "id": 36,
+      "isPresent": false,
+      "name": "Carbon monoxide alarm"
+    },
+    {
+      "description": "",
+      "id": 37,
+      "isPresent": true,
+      "name": "First aid kit"
+    },
+    {
+      "description": "",
+      "id": 39,
+      "isPresent": true,
+      "name": "Fire extinguisher"
+    },
+    {
+      "description": "Towels, bed sheets, soap, and toilet paper",
+      "id": 40,
+      "isPresent": true,
+      "name": "Essentials"
+    },
+    {
+      "description": "",
+      "id": 41,
+      "isPresent": true,
+      "name": "Shampoo"
+    },
+    {
+      "description": "Private room can be locked for safety and privacy",
+      "id": 42,
+      "isPresent": true,
+      "name": "Lock on bedroom door"
+    },
+    {
+      "description": "",
+      "id": 44,
+      "isPresent": true,
+      "name": "Hangers"
+    },
+    {
+      "description": "",
+      "id": 46,
+      "isPresent": true,
+      "name": "Iron"
+    },
+    {
+      "description": "Separate street or building entrance",
+      "id": 57,
+      "isPresent": true,
+      "name": "Private entrance"
+    },
+    {
+      "description": "",
+      "id": 71,
+      "isPresent": true,
+      "name": "Crib"
+    },
+    {
+      "description": "",
+      "id": 77,
+      "isPresent": true,
+      "name": "Hot water"
+    },
+    {
+      "description": "",
+      "id": 85,
+      "isPresent": true,
+      "name": "Bed linens"
+    },
+    {
+      "description": "",
+      "id": 86,
+      "isPresent": true,
+      "name": "Extra pillows and blankets"
+    },
+    {
+      "description": "",
+      "id": 90,
+      "isPresent": true,
+      "name": "Coffee maker"
+    },
+    {
+      "description": "For guests' convenience when they have early arrival or late departure",
+      "id": 103,
+      "isPresent": true,
+      "name": "Luggage dropoff allowed"
+    },
+    {
+      "description": "Allow stay for 28 days or more",
+      "id": 104,
+      "isPresent": true,
+      "name": "Long term stays allowed"
+    },
+    {
+      "description": "",
+      "id": 129,
+      "isPresent": true,
+      "name": "Host greets you"
+    }
+  ],
+  "rootAmenitySections": [
+    {
+      "id": "available_amenities",
+      "title": "Amenities",
+      "subtitle": "",
+      "amenityIds": [
+        21,
+        9,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "unavailable_safety_amenities",
+      "title": "Amenities",
+      "subtitle": "The host hasn't reported smoke or carbon monoxide detectors on the property.",
+      "amenityIds": [
+        35,
+        36
+      ]
+    }
+  ],
+  "seeAllAmenitySections": [
+    {
+      "id": "pdp_m2_5_bathroom",
+      "title": "Bathroom",
+      "subtitle": "",
+      "amenityIds": [
+        41,
+        77
+      ]
+    },
+    {
+      "id": "pdp_m2_5_bedroom_laundry",
+      "title": "Bedroom and laundry",
+      "subtitle": "",
+      "amenityIds": [
+        40,
+        44,
+        46,
+        85,
+        86
+      ]
+    },
+    {
+      "id": "pdp_m2_5_entertainment",
+      "title": "Entertainment",
+      "subtitle": "",
+      "amenityIds": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": "pdp_m2_5_family",
+      "title": "Family",
+      "subtitle": "",
+      "amenityIds": [
+        71
+      ]
+    },
+    {
+      "id": "pdp_m2_5_heating_cooling",
+      "title": "Heating and cooling",
+      "subtitle": "",
+      "amenityIds": [
+        5
+      ]
+    },
+    {
+      "id": "pdp_m2_5_home_safety",
+      "title": "Home safety",
+      "subtitle": "",
+      "amenityIds": [
+        37,
+        39,
+        42
+      ]
+    },
+    {
+      "id": "pdp_m2_5_internet_office",
+      "title": "Internet and office",
+      "subtitle": "",
+      "amenityIds": [
+        4
+      ]
+    },
+    {
+      "id": "pdp_m2_5_kitchen_dining",
+      "title": "Kitchen and dining",
+      "subtitle": "",
+      "amenityIds": [
+        90
+      ]
+    },
+    {
+      "id": "pdp_m2_5_location",
+      "title": "Location features",
+      "subtitle": "",
+      "amenityIds": [
+        57
+      ]
+    },
+    {
+      "id": "pdp_m2_5_parking_facilities",
+      "title": "Parking and facilities",
+      "subtitle": "",
+      "amenityIds": [
+        21,
+        9
+      ]
+    },
+    {
+      "id": "pdp_m2_5_services",
+      "title": "Services",
+      "subtitle": "",
+      "amenityIds": [
+        16,
+        103,
+        104,
+        129
+      ]
+    },
+    {
+      "id": "pdp_unavailable",
+      "title": "Not included",
+      "subtitle": "",
+      "amenityIds": [
+        8,
+        33,
+        45,
+        30,
+        35,
+        36
+      ]
+    }
+  ],
+  "bathroomLabel": "18 shared baths",
+  "bedLabel": "18 beds",
+  "bedroomLabel": "18 bedrooms",
+  "hasHouseRules": true,
+  "id": 39484789,
+  "isNewListing": false,
+  "listingRooms": [
+    {
+      "beds": [
+        {
+          "id": "69553210/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553210,
+      "roomNumber": 9
+    },
+    {
+      "beds": [
+        {
+          "id": "69553203/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553203,
+      "roomNumber": 2
+    },
+    {
+      "beds": [
+        {
+          "id": "69553205/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553205,
+      "roomNumber": 4
+    },
+    {
+      "beds": [
+        {
+          "id": "69553207/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553207,
+      "roomNumber": 6
+    },
+    {
+      "beds": [
+        {
+          "id": "69553208/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553208,
+      "roomNumber": 7
+    },
+    {
+      "beds": [
+        {
+          "id": "69553212/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553212,
+      "roomNumber": 11
+    },
+    {
+      "beds": [
+        {
+          "id": "69553218/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553218,
+      "roomNumber": 16
+    },
+    {
+      "beds": [
+        {
+          "id": "69553202/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553202,
+      "roomNumber": 1
+    },
+    {
+      "beds": [
+        {
+          "id": "69553206/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553206,
+      "roomNumber": 5
+    },
+    {
+      "beds": [
+        {
+          "id": "69553220/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553220,
+      "roomNumber": 18
+    },
+    {
+      "beds": [
+        {
+          "id": "69553217/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553217,
+      "roomNumber": 15
+    },
+    {
+      "beds": [
+        {
+          "id": "69553215/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553215,
+      "roomNumber": 13
+    },
+    {
+      "beds": [
+        {
+          "id": "69553216/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553216,
+      "roomNumber": 14
+    },
+    {
+      "beds": [
+        {
+          "id": "69553204/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553204,
+      "roomNumber": 3
+    },
+    {
+      "beds": [
+        {
+          "id": "69553209/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553209,
+      "roomNumber": 8
+    },
+    {
+      "beds": [
+        {
+          "id": "69553211/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553211,
+      "roomNumber": 10
+    },
+    {
+      "beds": [
+        {
+          "id": "69553213/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553213,
+      "roomNumber": 12
+    },
+    {
+      "beds": [
+        {
+          "id": "69553219/king_bed",
+          "quantity": 1,
+          "type": "king_bed"
+        }
+      ],
+      "id": 69553219,
+      "roomNumber": 17
+    }
+  ],
+  "p3SummaryAddress": "Udaipur, Rajasthan, India",
+  "roomTypeCategory": "private_room",
+  "sectionedDescription": {
+    "authorType": "human",
+    "locale": "en",
+    "localizedLanguageName": "English",
+    "name": "Hotel Castle Inn Awesome entire property 18 Rooms"
+  },
+  "tierId": 0,
+  "guestControls": {
+    "allowsChildren": true,
+    "allowsEvents": true,
+    "allowsInfants": true,
+    "allowsPets": false,
+    "allowsSmoking": true,
+    "personCapacity": 16,
+    "structuredHouseRules": [
+      "No pets",
+      "Check-in is anytime after 11AM and check out by 10AM"
+    ],
+    "structuredHouseRulesWithTips": [
+      {
+        "key": "are_pets_allowed_as_host",
+        "text": "No pets",
+        "airmojiKey": "house_rules_no_pets"
+      },
+      {
+        "key": "check_in_time_and_check_out_time",
+        "text": "Check-in is anytime after 11AM and check out by 10AM",
+        "airmojiKey": "accomodation_keys"
+      }
+    ],
+    "allowsNonChinaUsers": true
+  },
+  "hasSpecialOffer": false,
+  "maxNights": 1125,
+  "minNights": 1,
+  "priceDetails": [],
+  "hasWeWorkLocation": false,
+  "isBusinessTravelReady": false,
+  "hometourRooms": [
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553202,
+      "name": "",
+      "nameWithType": "Bedroom 1",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553203,
+      "name": "",
+      "nameWithType": "Bedroom 2",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553204,
+      "name": "",
+      "nameWithType": "Bedroom 3",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553205,
+      "name": "",
+      "nameWithType": "Bedroom 4",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553206,
+      "name": "",
+      "nameWithType": "Bedroom 5",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553207,
+      "name": "",
+      "nameWithType": "Bedroom 6",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553208,
+      "name": "",
+      "nameWithType": "Bedroom 7",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553209,
+      "name": "",
+      "nameWithType": "Bedroom 8",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553210,
+      "name": "",
+      "nameWithType": "Bedroom 9",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553211,
+      "name": "",
+      "nameWithType": "Bedroom 10",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553212,
+      "name": "",
+      "nameWithType": "Bedroom 11",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553213,
+      "name": "",
+      "nameWithType": "Bedroom 12",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553215,
+      "name": "",
+      "nameWithType": "Bedroom 13",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553216,
+      "name": "",
+      "nameWithType": "Bedroom 14",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553217,
+      "name": "",
+      "nameWithType": "Bedroom 15",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553218,
+      "name": "",
+      "nameWithType": "Bedroom 16",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553219,
+      "name": "",
+      "nameWithType": "Bedroom 17",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "details": [],
+      "highlightsHometour": [
+        "1 king bed"
+      ],
+      "highlightsPreview": [],
+      "isShared": false,
+      "id": 69553220,
+      "name": "",
+      "nameWithType": "Bedroom 18",
+      "photos": [],
+      "roomTypeId": 1,
+      "icons": [
+        {
+          "type": "king_bed",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "hometourSections": [],
+  "descriptionLocale": "en",
+  "initialDescriptionAuthorType": "human",
+  "localizedCheckInTimeWindow": "After 11:00 AM",
+  "localizedCheckOutTime": "10:00 AM",
+  "city": "Udaipur",
+  "country": "India",
+  "countryCode": "IN",
+  "hasHostGuidebook": false,
+  "hasLocalAttractions": false,
+  "neighborhoodCommunityTags": [],
+  "state": "Rajasthan",
+  "paidGrowthRemarketingListingIds": [],
+  "hasCommercialHostInfo": false,
+  "reviewDetailsInterface": {
+    "reviewCount": 0,
+    "reviewSummary": []
+  },
+  "reviewsOrder": "language_country",
+  "nearbyAirportDistanceDescriptions": [],
+  "renderTierId": 0,
+  "isHotel": false,
+  "showReviewTag": false,
+  "isRepresentativeInventory": false,
+  "localizedCity": "Udaipur",
+  "highlights": [
+    {
+      "type": "LISTING_POPULAR_AMENITY",
+      "message": "Guests often search for this popular amenity",
+      "headline": "Wifi",
+      "position": "0",
+      "icon": "extras_star"
+    }
+  ],
+  "highlightsImpressionId": "c1b4abd1-b3d5-3a98-4836-177203758e45",
+  "categorizedPreviewAmenities": [
+    {
+      "category": "Standard",
+      "amenities": "Wifi, Cable TV, TV, Air conditioning, Fire extinguisher, and 10 more"
+    },
+    {
+      "category": "Other highlights",
+      "amenities": "Elevator, Free parking on premises, Breakfast, First aid kit, Crib, and 3 more"
+    }
+  ],
+  "pointOfInterests": [],
+  "chinaPointsOfInterestMatcha": {},
+  "pageViewType": "DEFAULT",
+  "previewTags": [],
+  "seeAllHometourSections": [],
+  "enableHighlightsVoting": false,
+  "listingExpectations": [],
+  "localizedListingExpectations": [],
+  "heroModule": {
+    "categorizedPhotos": []
+  },
+  "reviewsModule": {},
+  "availabilityModule": {},
+  "additionalHouseRules": "",
+  "sortedReviews": [],
+  "documentDisplayPictures": [],
+  "sections": [],
+  "metadata": {},
+  "p3ImpressionId": "c1b4abd1-b3d5-3a98-4836-177203758e45",
+  "idStr": "39484789",
+  "paidGrowthRemarketingListingIdsStr": []
+}]

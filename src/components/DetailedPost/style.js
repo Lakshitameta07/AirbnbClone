@@ -2,37 +2,25 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
   container: {
-    height:120,
-    padding:5,
-    shadowColor:'#000',
-    shadowOffset:{
-      width:0,
-      height:5,
-    },
-    shadowOpacity:0.34,
-    shadowRadius:6.27,
-    elevation:10
-  },
-  innerContainer:{
-    flexDirection:'row',
-    backgroundColor: 'white',
-    borderRadius:10,
-    overflow:"scroll"
+    flex: 1,
+    margin: 20,
   },
   image: {
-    height:"100%",
-    aspectRatio: 1,
+    width: '100%',
+    aspectRatio: 3 / 2,
     resizeMode: 'cover',
+    borderRadius: 10,
   },
   bedroom: {
     marginVertical: 10,
     color: "#5b5b5b5b"
   },
   description: {
-    fontSize: 15,
+    fontSize: 18,
+    lineHeight: 26
   },
   prices: {
-    fontSize: 15,
+    fontSize: 18,
     marginVertical: 10
   },
   oldPrice: {
