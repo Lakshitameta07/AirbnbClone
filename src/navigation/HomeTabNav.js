@@ -22,8 +22,7 @@ export default function HomeTabNav() {
     >
         <Tab.Screen
          name='Explore'
-         // component={ExploreNav}
-         component={PostScreen}
+         component={ExploreNav}
          options={{
             headerShown:false,
             tabBarIcon:({color})=>(

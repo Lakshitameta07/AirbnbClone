@@ -7,7 +7,9 @@ const styles = StyleSheet.create({
   },
     textinput:{
       fontSize:20,
-      marginBottom:20,
+      marginBottom:5,
+      backgroundColor:'white',
+      color:'black'
    },
    rowData:{
       flexDirection:'row',

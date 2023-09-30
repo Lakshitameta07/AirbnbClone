@@ -33,6 +33,11 @@ const styles = StyleSheet.create({
   totalPrice: {
     color: '#5b5b5b5b',
     textDecorationLine: 'underline'
+  },
+  detailedDes:{
+    fontSize:14,
+    lineHeight:24,
+    marginVertical:20
   }
 })
 export default styles

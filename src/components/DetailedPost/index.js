@@ -1,4 +1,4 @@
-import { View, Text, Image } from 'react-native'
+import { View, Text, Image,ScrollView} from 'react-native'
 import React from 'react'
 import styles from './style'
 
@@ -6,7 +6,9 @@ function DetailedPost(props) {
 
   const house = props.house;
   return (
-    <View style={styles.container}>
+    <ScrollView 
+    showsVerticalScrollIndicator ={false}
+    style={styles.container}>
       <Image style={styles.image}
         source={
           { uri: house.image}} />
@@ -18,8 +20,8 @@ function DetailedPost(props) {
         / night
       </Text>
       <Text style={styles.totalPrice}>{house.totalPrice}</Text>
-      <Text>{house.description}</Text>
-    </View>
+      <Text style={styles.detailedDes}>{house.description}</Text>
+    </ScrollView>
   )
 }
 
