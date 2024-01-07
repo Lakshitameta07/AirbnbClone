@@ -24,7 +24,7 @@ export default function Router() {
           name={'Home'}
           component={HomeTabNav}
           options={{
-            headerShown: false,
+            headerShown:false
           }}
         />
         <Stack.Screen
